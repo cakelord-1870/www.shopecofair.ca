@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/holidays-ornaments.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-02-04T14:28:57-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724938604619</id>
+    <published>2021-02-04T14:28:57-08:00</published>
+    <updated>2021-02-04T14:28:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/holiday-gift-basket"/>
+    <title>Holiday Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/04CC8349-8214-477F-A6DF-241E5400E66C.jpg?v=1614032407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            90.77 - 122.27
+            <a href="https://www.shopecofair.ca/products/holiday-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Holiday Gift Basket $90.77 (was $100.85)<br></p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Snowman &amp; Tree Garland - Guatemala</li>
+<li>Haitian Angel - Haiti</li>
+<li>Rainforest Candles - Guatemala</li>
+<li>Frankincense Incense - Nepal</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938604619</id>
+      <title>Holiday Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">90.77</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938604619</id>
+      <title>Holiday Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">122.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701802365003</id>
+    <published>2020-11-19T11:49:31-08:00</published>
+    <updated>2020-11-19T11:49:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/fairmail-christmas-stars-set-of-6-cards"/>
+    <title>FairMail Christmas Stars - set of 6 Cards</title>
+    <s:type></s:type>
+    <s:vendor>FairMail, India &amp; Peru</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/ChristmasStarsfront.jpg?v=1605815233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FairMail, India &amp; Peru<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 6 Christmas cards. FairMail gives cameras to teenagers in India and Peru and gives them 50% of the profits for education and housing.<br></p>
+<p> <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_480x480.jpg?v=1516984597" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_480x480.jpg?v=1516984597"> FairMail, WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701802365003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701200744523</id>
+    <published>2020-11-18T12:15:19-08:00</published>
+    <updated>2020-11-18T12:15:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/santa-earrings"/>
+    <title>Santa Earrings</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Kenya &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/santaearrings.jpg?v=1605730596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Kenya &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Festive Santa earrings, handmade in Kenya with recycled pop cans and wire. Earrings approximately 2 1/2" high.<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Global Crafts, Kenya &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701200744523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701198319691</id>
+    <published>2020-11-18T12:09:26-08:00</published>
+    <updated>2020-11-18T12:09:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/santa-pin-card"/>
+    <title>Santa Pin Card</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Kenya &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/SANTAPINCARDS.jpg?v=1605730369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Kenya &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Greeting card with attached Santa pin, handmade in Kenya with recycled pop cans and wire, and decorated with colourful beads. Pins approximately 3 1/2" high.<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Global Crafts, Kenya &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701198319691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4697587548235</id>
+    <published>2020-11-12T19:26:46-08:00</published>
+    <updated>2020-11-12T19:26:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/ecofair-gift-card"/>
+    <title>EcoFair Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/11AE1916-9739-42DD-B75D-2619520484B5.jpg?v=1605310757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 150.00
+            <a href="https://www.shopecofair.ca/products/ecofair-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Not sure what they'll like? Let them choose! When you purchase a Gift Card from us, you will receive an email that contains a unique gift card code that can be used at checkout to redeem its value.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$150.00 (includes FREE shipping!)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4693786296395</id>
+    <published>2020-11-05T10:39:34-08:00</published>
+    <updated>2020-11-05T10:39:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/trumpeting-haitian-angel"/>
+    <title>Trumpeting Haitian Angel</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Haiti &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/angellarge.jpg?v=1604601694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Haiti &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by artisans in Haiti.  <span>This metal art holiday decoration is 11 " long, 5" tall. Handmade from steel drums and brightly painted.</span></p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597" alt="">  Global Crafts, Haiti &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4693786296395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689727160395</id>
+    <published>2020-11-02T18:42:30-08:00</published>
+    <updated>2020-11-02T18:42:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/frankincense-incense"/>
+    <title>Frankincense Incense</title>
+    <s:type></s:type>
+    <s:vendor>Global Groove, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Frankincense.jpg?v=1604084578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove, Nepal<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Hand made in Nepal using traditional techniques and all-natural ingredients, these sticks burn for 45-60 minutes. 15 in each environmentally-friendly Lokta paper sleeve.</span></p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Sticks burn for 45-60 minutes.</span></p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">15 Sticks per pack.</span></p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Hand made in Nepal using traditional techniques and all-natural ingredients.</span></p>
+<p class="p1" data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_50x50.jpg?v=1516984597"> Global Groove, Fair Trade Federation Memeber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689727160395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689403445323</id>
+    <published>2020-11-02T18:42:29-08:00</published>
+    <updated>2020-11-02T18:42:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/angel-ornament"/>
+    <title>Angel Beaded Ornament</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/angelbeaded.jpg?v=1604016062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beads made from recycled glass. Wire framework and loop for hanging. Raffia tie.</p>
+<p>Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689403445323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689402298443</id>
+    <published>2020-11-02T18:42:29-08:00</published>
+    <updated>2020-11-02T18:42:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/christmas-tree-ornaments-1"/>
+    <title>Christmas Tree Ornaments</title>
+    <s:type>each</s:type>
+    <s:vendor>Bridge of Hope, Peru</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/treeornament_3f065fae-42a2-4f20-ae51-8895cd43ff84.jpg?v=1604014932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bridge of Hope, Peru<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by artisans in Peru. Bridge of Hope builds bridges between artisans and socially responsible consumers. 3.5" tall, 9 cm.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  BRIDGE OF HOPE, PERU</strong></p>
+<p class="p1">Bridge of Hope is confronting the root causes of poverty by providing an alternative way of doing business, in order that the artisans from the most impoverished areas of the country have opportunity for development and direct access to markets. They promote Fair Trade in order to offer the producers and artisans of Peru acceptable social and labor conditions and a just wage for their work. WFTO member.</p>
+<p class="p1">About the artisans:</p>
+<p class="p1">The members of Jupa are neighbours and live in the slums of Pamplona Alta, the highest part of the district of San Juan de Miraflores, which is a very arid area south of Lima. The members of Jupa are young mothers and hope to improve their livelihoods through their Fair Trade work.</p>
+<p class="p1"><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=CixJu-PyWSQ"> Bridge of Hope video with Jupa</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689402298443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4543152881739</id>
+    <published>2020-11-02T18:42:28-08:00</published>
+    <updated>2020-11-02T18:42:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/haitian-angel"/>
+    <title>Haitian Angel</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Haiti &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0144.jpg?v=1588365609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Haiti &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by artisans in Haiti.  <span>This metal art holiday decoration is 4 inches tall. Great on a table or mantle, or as a small Christmas tree topper! Handmade from steel drums and brightly painted.</span></p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597" alt="">  Global Crafts, Haiti &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4543152881739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1677973225506</id>
+    <published>2020-11-02T18:42:26-08:00</published>
+    <updated>2020-11-02T18:42:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/heart-garland"/>
+    <title>Heart Garland</title>
+    <s:type>Each</s:type>
+    <s:vendor>Prokritee, Bangladesh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/B1E90446-B251-408D-A3D5-0FE6F3801E03.jpeg?v=1547272282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prokritee, Bangladesh<br>
+        <strong>Type: </strong>Each<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?v=1516984597"> Back in stock! These beautiful heart garlands are made with upcycled cotton saris, handmade in Bangladesh by Prokritee, a fair trade enterprise supporting over 1,500 artisans in rural areas.</p>
+<p>Hang or display them anywhere, anytime - not just Valentine's Day - and feel the love! 48" l, 3" w. WFTO member. <a href="http://www.prokritee.com">www.prokritee.com</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1677973225506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9900853383</id>
+    <published>2020-11-02T18:42:24-08:00</published>
+    <updated>2020-11-02T18:42:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/butterfly-angel-ornament"/>
+    <title>Butterfly Angel Ornament</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/angeltinornament.jpg?v=1604015256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>These eco-friendly butterfly angel ornaments are handmade and Fair Trade. Their wings are made from recycled aluminum soda cans and they're outfitted in hand-woven Guatemalan fabric. Each sold separately. 2 1/2" W (wingspan) 2 1/2"H 100% Recycled Aluminum Wings 100% Cotton Fabric Assorted Colours - White, Yellow, Blue, Red, Green</span></p>
+<p>15 cm H</p>
+<h3><strong><a href="http://www.fairtradefederation.org/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9900853383</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9784078663</id>
+    <published>2020-11-02T18:42:23-08:00</published>
+    <updated>2020-11-02T18:42:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/batik-greeting-cards"/>
+    <title>Batik Greeting Cards</title>
+    <s:type>100 gm</s:type>
+    <s:vendor>New Sadle, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/CHRISTMAS_TREE_CARD-FINAL.jpg?v=1605404354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Sadle, Nepal<br>
+        <strong>Type: </strong>100 gm<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<p class="p1">Traditional Nepali handmade papermaking highlight these interesting greeting cards. Made from the inner bark of a wild understory shrub known locally as Lotka. It is cut above ground to encourage regrowth, then delivered to the papermakers, a 2 to 3 day walk down from the mountains. Lotka paper is prized for its durability and texture. Hand painted batik fabric attached, with matching envelope and blank inside. Colours may vary slightly. 16.5 cm high, 12 cm wide.</p>
+<h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  New SADLE, Nepal</strong></h3>
+<div>New SADLE (New Skill and Development Learning Experience) provides free medical treatment, food, housing, and education to ex-leprosy and ex-polio affected social outcasts in Kathmandu. Their employment and reintegration program promotes self respect and dignity. WFTO member (Fair Trade Group Nepal). </div>
+<br>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Christmas tree</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Snowman</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Peace</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Sunflower</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Cat</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Owl</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Chorten</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/582272001</id>
+    <published>2020-11-02T18:42:20-08:00</published>
+    <updated>2020-11-02T18:42:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/gingerbread-ornaments"/>
+    <title>Gingerbread Ornaments</title>
+    <s:type>each</s:type>
+    <s:vendor>Bridge of Hope, Peru</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/gingerpeople.jpg?v=1430708531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bridge of Hope, Peru<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gingerbread Ornaments</p>
+<p>Handmade by artisans in Peru. Bridge of Hope builds bridges between artisans and socially responsible consumers. 3.5" tall, 9 cm.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  BRIDGE OF HOPE, PERU</strong></p>
+<p class="p1">Bridge of Hope is confronting the root causes of poverty by providing an alternative way of doing business, in order that the artisans from the most impoverished areas of the country have opportunity for development and direct access to markets. They promote Fair Trade in order to offer the producers and artisans of Peru acceptable social and labor conditions and a just wage for their work. WFTO member.</p>
+<p class="p1">About the artisans:</p>
+<p class="p1">The members of Jupa are neighbours and live in the slums of Pamplona Alta, the highest part of the district of San Juan de Miraflores, which is a very arid area south of Lima. The members of Jupa are young mothers and hope to improve their livelihoods through their Fair Trade work.</p>
+<p class="p1"><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=CixJu-PyWSQ"> Bridge of Hope video with Jupa</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/582272001</id>
+      <title>Girl</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/582272001</id>
+      <title>Boy</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4690035900491</id>
+    <published>2020-10-31T14:32:50-07:00</published>
+    <updated>2020-10-31T14:32:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/snowman-christmas-tree-garland"/>
+    <title>Snowman &amp; Christmas Tree Garland</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/snowtreegarland.jpg?v=1604180079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Back in stock mid-November 2020. These cheerful Guatemalan snowmen add a festive touch to your home. Two stuffed, felted snowmen trimmed with Guatemalan fabric accents and three stuffed, felted Christmas trees are are strung on a sparkly beaded garland with hanging loops at both ends. The garland measures 52" L. The snowman and trees are approx. 4" H and the trees hearts are 3" W. Handmade and fair trade. Garland: 52"L Glass and plastic sparkly beads, bead eyes and Guatemalan fabric accents. Handmade and Fair Trade!</span></p>
+<h3><strong><a href="http://www.fairtradefederation.org/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4690035900491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689427300427</id>
+    <published>2020-10-29T18:06:50-07:00</published>
+    <updated>2020-10-29T18:06:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/heart-garland-1"/>
+    <title>Heart Garland</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/6E6DFAA4-AA00-4518-B169-55BB105AD804.jpg?v=1611968717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Love is in the air - literally! Make your home (and hearts) festive on Valentine's Day or every day with our reversible String of Hearts Garland that is sure to liven up any room! Each heart is made from traditional Guatemalan fabric and they all hang from a satin cord. As always, Handmade and Fair Trade!</p>
+<ul>
+<li>Garland is 56" L</li>
+<li>Hearts are 3" W x 3" H</li>
+<li>100% Cotton</li>
+</ul>
+<p>15 cm H</p>
+<h3><strong><a href="http://www.fairtradefederation.org/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689427300427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689404100683</id>
+    <published>2020-10-29T16:56:27-07:00</published>
+    <updated>2020-10-29T16:56:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/star-ornament"/>
+    <title>Star Ornament</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/starornament.jpg?v=1604015964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Beads made from recycled glass. Adinkra bead hand painted with the symbol for Gye Nyame. Tag defines the meaning which symbolizes the belief that God is above all and reflects Ghana's spiritual roots. Wire framework and loop for hanging. Raffia tie.</span></p>
+<p>Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689404100683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/tea.atom"/>
+  <title>EcoFair</title>
+  <updated>2020-11-12T19:26:46-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4697587548235</id>
+    <published>2020-11-12T19:26:46-08:00</published>
+    <updated>2020-11-12T19:26:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/ecofair-gift-card"/>
+    <title>EcoFair Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/11AE1916-9739-42DD-B75D-2619520484B5.jpg?v=1605310757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 150.00
+            <a href="https://www.shopecofair.ca/products/ecofair-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Not sure what they'll like? Let them choose! When you purchase a Gift Card from us, you will receive an email that contains a unique gift card code that can be used at checkout to redeem its value.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$150.00 (includes FREE shipping!)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1693255598114</id>
+    <published>2020-11-02T18:40:35-08:00</published>
+    <updated>2020-11-02T18:40:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/50-teabags-from-kte-tea-garden-eastern-nepal"/>
+    <title>50 teabags from KTE tea garden, eastern Nepal</title>
+    <s:type>each</s:type>
+    <s:vendor>New Sadle, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0096.JPG?v=1605836930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Sadle, Nepal<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_thumb.jpg?9480164677353020287"><img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/USDA_logo_thumb.jpg?9480164677353020287"><strong>Himalayan Tea </strong>
+</h3>
+<p>Tea back in stock!</p>
+<p>A best seller. Relax with a cup of this delicious, smooth, low tannin (but high nutrient) tea. Single-estate, certified organic and certified fair trade by WFTO (Fair Trade Group Nepal). 50 teabags, tea grown in eastern Nepal by KTE, <span class="Apple-tab-span"> 15cm w x 1</span>5 cm <span class="Apple-tab-span">h</span>.</p>
+<p><strong>KTE </strong>is a Fair Trade organic tea cooperative located high in the Nepali mountains bordering Darjeeling. Perfect growing conditions combined with organic cultivation (no pesticides or synthetic fertilizers) produce a flavourful tea rich in health benefits. Choose from 5 flavours: Green Tea, Black Tea, Green Tea with Lemongrass, Green Tea with Ginger, Black Tea with Chai spices or Black Tea with Cinnamon.</p>
+<p>For the perfect cuppa: use 80˚C clean water (boiling water kills the most important nutrients). <strong>Green tea</strong>: steep for 3 - 5 minutes max. Want a stronger brew? Add more tea, but steep the same. <strong>Black tea</strong> can be steeped for much longer.</p>
+<h3><strong></strong></h3>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<blockquote>
+<h4><strong><em></em></strong></h4>
+</blockquote>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Green Tea</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Green tea w/ Lemongrass</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Green Tea w/ Ginger</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black Tea</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black tea w/ Ginger</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black tea w/ Chai spices</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black tea w/ Cinnamon</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4293218566178</id>
+    <published>2019-10-21T08:22:22-07:00</published>
+    <updated>2019-10-21T08:22:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/justea-herbal-rooibos-tea"/>
+    <title>JUSTEA Fair Trade Herbal &amp; Rooibos Tea, Kenya</title>
+    <s:type>70 gm</s:type>
+    <s:vendor>JUSTEA, Kenya &amp; Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/F9F62425-E318-492E-9D56-BBDF95CB424D.jpg?v=1571703905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JUSTEA, Kenya &amp; Canada<br>
+        <strong>Type: </strong>70 gm<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relax and enjoy a cup of our new herbal &amp; rooibos teas. Caffeine free, whole leaf, family direct Fair Trade, plant based and gluten free. Each tin includes a hand carved Kenyan olive wood tea spoon! Each tin makes 40 cups; resteep for 80.</p>
+<p>Purple Rain: lemongrass, Kenyan purple tea, hibiscus, apple pieces, rosehips, natural passion fruit flavour</p>
+<p>Sunkissed Rooibos: long cut rooibos, lemongrass</p>
+<p>Chamomile Cleanse: chamomile blossoms, lemongrass, licorice root</p>
+<p>Peppermint Detox: lemongrass, peppermint</p>
+<h3></h3>
+<h3></h3>
+<h3>
+<strong><a href="http://www.fairtradefederation.org/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a> <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/IMG_0130_9c2c5324-cd5c-4629-b2ca-a758abd14dab_50x50.jpg?v=1571677317" alt="">  <span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"> </span></strong>JUSTEA Herbal &amp; Rooibos Tea, Kenya &amp; Canada</h3>
+<p><span>JUSTEA has established Kenya’s first-ever, small-scale farmer-owned, Artisanal Tea Factory, providing fair and sustainable wages for tea farming families. Since 2012, JUSTEA has:</span></p>
+<ul>
+<li>
+<b>Created</b><span> sustainable employment for youth and women in rural Kenya! JUSTEA has opened the country’s first-ever, small-scale farmer-owned, Artisanal Tea Factory. </span>
+</li>
+<li>
+<b>Partnered</b><span> with a Women’s Herbal Tea Co-op in Eastern Kenya.  JusTea is the first North American distributor for this co-op’s Organic herbs.  Over 80% of the employees are women and they support hundreds of small-scale herbal tea farmers in their community.  </span>
+</li>
+<li>
+<b>Employed</b><span> over 50 different woodworking families through the sales of hand-carved Kenyan teaspoons. JUSTEA has bought over 100,000 spoons and every purchase directly employs these carving families.</span>
+</li>
+</ul>
+<h2>What is Kenyan Purple Tea?</h2>
+<p>Over 25 years ago, the Tea Research Foundation of Kenya (TRFK) developed this new Purple cultivar and small-scale Kenyan farmers planted the seedlings in 2011. Purple Leaf Tea is a cultivar of Camellia Sinensis (species) Assamica (varietal). It is called Purple Tea is because the bushes grow purple leaves in Kenyan tea gardens. This is not a gmo plant; it is completely natural and part of the tea family (Camellia Sinensis Assamica).</p>
+<blockquote></blockquote>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Purple Rain, 80 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Sun kissed Rooibos, 70 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Chamomile Cleanse, 45 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Peppermint Detox, 45 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/187051609</id>
+    <published>2013-12-02T11:30:00-08:00</published>
+    <updated>2013-12-02T11:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/nepali-tea-in-shoulder-bag"/>
+    <title>Nepali Tea in Shoulder Bag</title>
+    <s:type>100 gm</s:type>
+    <s:vendor>KTE &amp; New SADLE, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/54E9C476-5AE7-4160-B1B4-D43F8ADCD98D.jpg?v=1603757856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KTE &amp; New SADLE, Nepal<br>
+        <strong>Type: </strong>100 gm<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_thumb.jpg?9480164677353020287"><img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/USDA_logo_thumb.jpg?9480164677353020287">Nepali<strong> Tea in Shoulder Bag, Nepal</strong>
+</h3>
+<p>A best seller. Relax with a cup of this delicious, smooth, low tannin (but high nutrient) tea. And talk about reusable packaging — when you are done, wear the beautiful shoulder bag (2 pocket, zipper close, tassles with beads).Single-estate, certified organic and certified fair trade by WFTO (Fair Trade Group Nepal). 50 teabags in shoulder bag. Tea grown in Nepal by KTE, pouch by New SADLE.</p>
+<p>Bag colour chosen randomly unless requested. B<span class="Apple-tab-span">ag: 15cm w x 18 </span>cm <span class="Apple-tab-span">h</span>, strap 160 cm long.</p>
+<p><strong>KTE </strong>is a Fair Trade organic tea cooperative located high in the Nepali mountains bordering Darjeeling. Perfect growing conditions combined with organic cultivation (no pesticides or synthetic fertilizers) produce a flavourful tea rich in health benefits. Choose from 7 flavours: Green Tea, Green Tea w/ Lemongrass, Green Tea w/ Ginger, Black Tea, Black Tea w/ Ginger, Black Tea w/ Chai Spices or Black Tea w/ Cinnamon.</p>
+<p>For the perfect cuppa: use 80˚C clean water (boiling water kills the most important nutrients). <strong>Green tea</strong>: steep for 3 - 5 minutes max. Want a stronger brew? Add more tea, but steep the same. <strong>Black tea</strong> can be steeped for much longer.</p>
+<h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  New SADLE, Nepal</strong></h3>
+<div>New SADLE (New Skill and Development Learning Experience) provides free medical treatment, food, housing, and education to ex-leprosy and ex-polio affected social outcasts in Kathmandu. Their employment and reintegration program promotes self respect and dignity. WFTO member (Fair Trade Group Nepal). </div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<blockquote>
+<h4><strong><em></em></strong></h4>
+</blockquote>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Green Tea</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Green tea w/ Lemongrass</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Green Tea w/ Ginger</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black Tea</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black tea w/ Ginger</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black tea w/ Chai spices</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black tea w/ Cinnamon</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

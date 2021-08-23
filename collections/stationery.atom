@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/stationery.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-01-30T14:49:26-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4731906359371</id>
+    <published>2021-01-30T14:49:26-08:00</published>
+    <updated>2021-01-30T14:49:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/letter-opener"/>
+    <title>Letter Opener</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/6A26FEA1-1DF4-4A5C-87D6-9B6330D22206.jpg?v=1614030379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wise Man Letter Opener</strong></p>
+<p>Will open any envelope with ease and look great on your desk. Hand-carved in Kenya by MCU from sustainably harvested jacaranda, replaced by seedlings from MCU's tree nursery. MCU has embarked on an environmental conservation program to rehabilitate the forests, including a tree nursery project. 7.5 " length.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4731906359371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710720307275</id>
+    <published>2020-12-04T15:27:47-08:00</published>
+    <updated>2020-12-04T15:27:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pencil-case"/>
+    <title>Pencil Case</title>
+    <s:type>each</s:type>
+    <s:vendor>Bridge of Hope, Peru</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/pencilcases.jpg?v=1607124573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bridge of Hope, Peru<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pencil Case</strong></p>
+<p>Handmade by artisans in Peru. Bridge of Hope builds bridges between artisans and socially responsible consumers. Cotton outer, liner inside. 8" long, 3" diameter.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  BRIDGE OF HOPE, PERU</strong></p>
+<p class="p1">Bridge of Hope is confronting the root causes of poverty by providing an alternative way of doing business, in order that the artisans from the most impoverished areas of the country have opportunity for development and direct access to markets. They promote Fair Trade in order to offer the producers and artisans of Peru acceptable social and labor conditions and a just wage for their work. WFTO member.</p>
+<p class="p1">About the artisans: El Mercurio began in 2002 thanks to three enthusiastic women that each dedicated herself to a different specialty, giving diversity to their work and breaking the traditional way of doing things in that era where the role of the woman was supposed to be limited to household chores and caring for the kids in the home. These enterprising women, with good help from Fair Trade, have continued moving forward. Today, every one of the 30 plus members of El Mercurio has a story of struggle but also a story of success that keeps them pushing on.  <a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=hdMAFcb9NUA">Bridge of Hope video with El Mercurio</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710720307275</id>
+      <title>1 - Blue Pattern</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710720307275</id>
+      <title>2 - Pink/Purple Stripes</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710720307275</id>
+      <title>3 - Blue Stripes</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710720307275</id>
+      <title>4 - Green Pattern</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710410584139</id>
+    <published>2020-12-03T15:55:20-08:00</published>
+    <updated>2020-12-03T15:55:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/notebooks-large"/>
+    <title>Notebooks - Large</title>
+    <s:type>each</s:type>
+    <s:vendor>Matr Boomie, India &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/notebooklarge.jpg?v=1607039843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Matr Boomie, India &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Artisans convert cotton waste into a pulp to create richly textured, 100% tree-free paper pages with a uniquely soft feel. 50</span> page notebook with cloth cover, made in India with , 3" x 5".<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Matr Boomie, India &amp; US</strong></p>
+<p class="p1"><span>Matr Boomie partners with over 1,500 artisans in marginalized communities throughout India to create economic and sustainable living opportunities. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710410584139</id>
+      <title>1</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710410584139</id>
+      <title>2</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710410584139</id>
+      <title>3</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710410584139</id>
+      <title>4</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710410584139</id>
+      <title>5</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710409928779</id>
+    <published>2020-12-03T15:47:43-08:00</published>
+    <updated>2020-12-03T15:47:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/notebooks-mediumsmall"/>
+    <title>Notebooks - Medium</title>
+    <s:type>each</s:type>
+    <s:vendor>Matr Boomie, India &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/notebookmedium.jpg?v=1607039556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Matr Boomie, India &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Artisans convert cotton waste into a pulp to create richly textured, 100% tree-free paper pages with a uniquely soft feel. 50</span> page notebook with cloth cover, made in India with , 3" x 5".<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Matr Boomie, India &amp; US</strong></p>
+<p class="p1"><span>Matr Boomie partners with over 1,500 artisans in marginalized communities throughout India to create economic and sustainable living opportunities. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710409928779</id>
+      <title>1</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710409928779</id>
+      <title>2</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710409928779</id>
+      <title>3</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710409928779</id>
+      <title>4</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710408388683</id>
+    <published>2020-12-03T15:32:32-08:00</published>
+    <updated>2020-12-03T15:32:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/notebooks-small"/>
+    <title>Notebooks - Small</title>
+    <s:type>each</s:type>
+    <s:vendor>Matr Boomie, India &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/notebooksmall.jpg?v=1607039030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Matr Boomie, India &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Artisans convert cotton waste into a pulp to create richly textured, 100% tree-free paper pages with a uniquely soft feel. </span>40 page notebook, made in India with , 2.5" x 3.5"<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Matr Boomie, India &amp; US</strong></p>
+<p class="p1"><span>Matr Boomie partners with over 1,500 artisans in marginalized communities throughout India to create economic and sustainable living opportunities. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710408388683</id>
+      <title>1</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710408388683</id>
+      <title>2</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710408388683</id>
+      <title>3</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710408388683</id>
+      <title>4</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710408388683</id>
+      <title>5</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701802365003</id>
+    <published>2020-11-19T11:49:31-08:00</published>
+    <updated>2020-11-19T11:49:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/fairmail-christmas-stars-set-of-6-cards"/>
+    <title>FairMail Christmas Stars - set of 6 Cards</title>
+    <s:type></s:type>
+    <s:vendor>FairMail, India &amp; Peru</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/ChristmasStarsfront.jpg?v=1605815233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FairMail, India &amp; Peru<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 6 Christmas cards. FairMail gives cameras to teenagers in India and Peru and gives them 50% of the profits for education and housing.<br></p>
+<p> <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_480x480.jpg?v=1516984597" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_480x480.jpg?v=1516984597"> FairMail, WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701802365003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701198319691</id>
+    <published>2020-11-18T12:09:26-08:00</published>
+    <updated>2020-11-18T12:09:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/santa-pin-card"/>
+    <title>Santa Pin Card</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Kenya &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/SANTAPINCARDS.jpg?v=1605730369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Kenya &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Greeting card with attached Santa pin, handmade in Kenya with recycled pop cans and wire, and decorated with colourful beads. Pins approximately 3 1/2" high.<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Global Crafts, Kenya &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701198319691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4697587548235</id>
+    <published>2020-11-12T19:26:46-08:00</published>
+    <updated>2020-11-12T19:26:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/ecofair-gift-card"/>
+    <title>EcoFair Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/11AE1916-9739-42DD-B75D-2619520484B5.jpg?v=1605310757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 150.00
+            <a href="https://www.shopecofair.ca/products/ecofair-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Not sure what they'll like? Let them choose! When you purchase a Gift Card from us, you will receive an email that contains a unique gift card code that can be used at checkout to redeem its value.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$150.00 (includes FREE shipping!)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689404788811</id>
+    <published>2020-11-02T18:42:29-08:00</published>
+    <updated>2020-11-02T18:42:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pencil-shaker"/>
+    <title>Fruit Rind Pencil Shaker</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/pencilshaker.jpg?v=1604016548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pencil shaker with fruit rind nuts, beautiful rainforest sound! Pencil is 7" long.</p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597" alt="">  Global Crafts, Indonesia &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689404788811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1620128235554</id>
+    <published>2020-11-02T18:42:26-08:00</published>
+    <updated>2020-11-02T18:42:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/bamboo-lotka-notebook"/>
+    <title>Lotka Notebook with Bamboo Cover</title>
+    <s:type>100 gm</s:type>
+    <s:vendor>New Sadle, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0072.PNG?v=1543199229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Sadle, Nepal<br>
+        <strong>Type: </strong>100 gm<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<p class="p1">Traditional Nepali handmade papermaking highlight this interesting notebook. Made from the inner bark of a wild understory shrub known locally as Lotka. It is cut above ground to encourage regrowth, then delivered to the papermakers, a 2 to 3 day walk down from the mountains. Lotka paper is prized for its durability and texture. 6" x 4", 50 pages.</p>
+<h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  New SADLE, Nepal</strong></h3>
+<div>New SADLE (New Skill and Development Learning Experience) provides free medical treatment, food, housing, and education to ex-leprosy and ex-polio affected social outcasts in Kathmandu. Their employment and reintegration program promotes self respect and dignity. WFTO member (Fair Trade Group Nepal). </div>
+<br>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1620128235554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9784078663</id>
+    <published>2020-11-02T18:42:23-08:00</published>
+    <updated>2020-11-02T18:42:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/batik-greeting-cards"/>
+    <title>Batik Greeting Cards</title>
+    <s:type>100 gm</s:type>
+    <s:vendor>New Sadle, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/CHRISTMAS_TREE_CARD-FINAL.jpg?v=1605404354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Sadle, Nepal<br>
+        <strong>Type: </strong>100 gm<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<p class="p1">Traditional Nepali handmade papermaking highlight these interesting greeting cards. Made from the inner bark of a wild understory shrub known locally as Lotka. It is cut above ground to encourage regrowth, then delivered to the papermakers, a 2 to 3 day walk down from the mountains. Lotka paper is prized for its durability and texture. Hand painted batik fabric attached, with matching envelope and blank inside. Colours may vary slightly. 16.5 cm high, 12 cm wide.</p>
+<h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  New SADLE, Nepal</strong></h3>
+<div>New SADLE (New Skill and Development Learning Experience) provides free medical treatment, food, housing, and education to ex-leprosy and ex-polio affected social outcasts in Kathmandu. Their employment and reintegration program promotes self respect and dignity. WFTO member (Fair Trade Group Nepal). </div>
+<br>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Christmas tree</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Snowman</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Peace</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Sunflower</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Cat</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Owl</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784078663</id>
+      <title>Chorten</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9793735495</id>
+    <published>2013-12-02T11:30:00-08:00</published>
+    <updated>2013-12-02T11:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/lotka-greeting-cards"/>
+    <title>Lotka Greeting Cards</title>
+    <s:type>100 gm</s:type>
+    <s:vendor>Sana Hastakala, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/LOVE_CARD.jpg?v=1594231146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sana Hastakala, Nepal<br>
+        <strong>Type: </strong>100 gm<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<p class="p1">Traditional Nepali handmade papermaking highlight these interesting greeting cards. Made from the inner bark of a wild understory shrub known locally as Lotka. It is cut above ground to encourage regrowth, then delivered to the papermakers, a 2 to 3 day walk down from the mountains. Lotka paper is prized for its durability and texture. Peace and love card hand painted (Phasupati landscape block printed) with matching envelope and blank inside. Colours of Peace cards vary. 15.5 cm high, 11 cm wide.</p>
+<h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  Sana Hastakala, Nepal</strong></h3>
+<div>Sana Hastakala, which means "small handicrafts" in Nepali, was formed in 1989 with the help of UNICEF. Sana provides business and community development programs to underprivileged craft producers, mostly women, to promote traditional Nepalese cultural crafts. WFTO member. </div>
+<br>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9793735495</id>
+      <title>love</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9793735495</id>
+      <title>Phasupati landscape</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

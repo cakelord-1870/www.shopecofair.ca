@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/gift-baskets.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-02-22T13:57:03-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724939685963</id>
+    <published>2021-02-22T13:57:03-08:00</published>
+    <updated>2021-02-22T13:57:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/kitchen-gift-basket"/>
+    <title>Kitchen Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/F761A1F8-63A5-442D-8FF8-99660C148B67.jpg?v=1614032469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.50 - 112.00
+            <a href="https://www.shopecofair.ca/products/kitchen-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kitchen Gift Basket $80.50 (was $89.45)</p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Kantha Dish Cloth &amp; Towel * - India</li>
+<li>Salad Servers - Kenya</li>
+<li>Peace <meta charset="utf-8">Soap Dish Bar, 100% Olive Oil - Palestine &amp; Israel</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>* Dish cloths &amp; towels are double-layer, reversible, made from upcycled cotton saris and are all random colours and patterns. Specify preferred colours and we will do our best to accommodate.</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939685963</id>
+      <title>Kitchen Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">80.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939685963</id>
+      <title>Kitchen Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">112.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724940243019</id>
+    <published>2021-02-04T15:20:00-08:00</published>
+    <updated>2021-02-04T15:20:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/zebra-handbag-gift-basket"/>
+    <title>Zebra Handbag Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/80C01FED-4752-4907-91E0-D388D911D8E5.jpg?v=1612480691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zebra Handbag Gift Basket $71.91 (was $79.90)</p>
+<ul>
+<li>Zebra Handbag - Kenya</li>
+<li>Shea Butter * - Ghana</li>
+<li>Pocket Wallet * - Ghana<br>
+</li>
+<li>FairMail Greeting Card * (free!)</li>
+</ul>
+<p>Note: All wallets are unique as they are made with fabric scraps from sewing operations.</p>
+<p><span>* Let us choose the shea butter, pocket wallet and card for you - otherwise please specify in cart notes. </span></p>
+<p>Shea Butter: Unscented, Vanilla, Lavender or Rosemary Mint</p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724940243019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724938899531</id>
+    <published>2021-02-04T14:32:41-08:00</published>
+    <updated>2021-02-04T14:32:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/thank-you-gift-basket"/>
+    <title>Thank You Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/BFD8AD9E-0131-4634-A6BD-4434555EC805.jpg?v=1614032657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            61.65 - 93.15
+            <a href="https://www.shopecofair.ca/products/thank-you-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thank You Gift Basket $61.65 (was $68.50)<br></p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Oat Milk Chocolate Bar *</li>
+<li>
+<meta charset="utf-8"> <span data-mce-fragment="1">50 bags Green or Black Organic </span>Nepali Tea in Shoulder Bag *</li>
+<li>Coffee, 70 g ground</li>
+<li>Peace Bar Soap * - Palestine &amp; Israel</li>
+<li>FairMail Greeting Card * (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<p><span>* Let us choose the peace soap, chocolate bar flavour, Nepali tea and card for you - otherwise please specify in cart notes. </span></p>
+<p>Tea flavours: Green, Green w/ Ginger, Green w/ Lemongrass, Black, Black w/ Ginger, Black w/ Chai Spices, Black w/ Cinnamon </p>
+<p>Peace Soap: 100% Olive Oil or 80% Olive Oil w/ Pomegranate, Sage, Goat's Milk, Lemon, Honey or Dead Sea Mud.</p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938899531</id>
+      <title>Thank You Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">61.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938899531</id>
+      <title>Thank You Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">93.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724938506315</id>
+    <published>2021-02-04T14:31:26-08:00</published>
+    <updated>2021-02-04T14:31:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pup-gift-basket"/>
+    <title>Pup Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/A4607A1C-E813-4DCB-9BD0-AD3276F2E621.jpg?v=1614032574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.01 - 102.51
+            <a href="https://www.shopecofair.ca/products/pup-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pup Gift Basket $71.01 (was $78.90)<br></p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Pet Soap - Ghana</li>
+<li>Pet Balm - Ghana</li>
+<li>Pet Tie * - Ghana</li>
+<li>FairMail Greeting Card * (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<p><span>* Let us choose the Pet Tie colour and card for you - otherwise please specify in cart notes. </span></p>
+<p> </p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938506315</id>
+      <title>Pup Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">71.01</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938506315</id>
+      <title>Pup Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">102.51</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724939194443</id>
+    <published>2021-02-04T14:30:20-08:00</published>
+    <updated>2021-02-04T14:30:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pampering-gift-basket"/>
+    <title>Pampering Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/78132D7B-42D6-4A94-B5E1-040C29A8BFE2.jpg?v=1614032531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            76.00 - 107.51
+            <a href="https://www.shopecofair.ca/products/pampering-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pampering Gift Basket $76.00 (was $84.45)</p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Shea Butter * - Ghana</li>
+<li>Peace Bar Soap * - Palestine &amp; Israel</li>
+<li>
+<meta charset="utf-8"> <span data-mce-fragment="1">50 bags Green or Black Organic </span>Nepali Tea in Shoulder Bag *</li>
+<li>Oat Milk Chocolate Bar *</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<p><span>* Let us choose the shea butter, peace soap, chocolate bar flavour, Nepali tea and card for you - otherwise please specify in cart notes. </span></p>
+<p>Tea flavours: Green, Green w/ Ginger, Green w/ Lemongrass, Black, Black w/ Ginger, Black w/ Chai Spices, Black w/ Cinnamon </p>
+<p>Shea Butter: Unscented, Vanilla, Lavender or Rosemary Mint</p>
+<p>Peace Soap: 100% Olive Oil or 80% Olive Oil w/ Pomegranate, Sage, Goat's Milk, Lemon, Honey or Dead Sea Mud.</p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939194443</id>
+      <title>Pampering Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939194443</id>
+      <title>Pampering Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">107.51</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724938604619</id>
+    <published>2021-02-04T14:28:57-08:00</published>
+    <updated>2021-02-04T14:28:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/holiday-gift-basket"/>
+    <title>Holiday Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/04CC8349-8214-477F-A6DF-241E5400E66C.jpg?v=1614032407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            90.77 - 122.27
+            <a href="https://www.shopecofair.ca/products/holiday-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Holiday Gift Basket $90.77 (was $100.85)<br></p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Snowman &amp; Tree Garland - Guatemala</li>
+<li>Haitian Angel - Haiti</li>
+<li>Rainforest Candles - Guatemala</li>
+<li>Frankincense Incense - Nepal</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938604619</id>
+      <title>Holiday Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">90.77</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938604619</id>
+      <title>Holiday Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">122.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724940079179</id>
+    <published>2021-02-04T14:27:42-08:00</published>
+    <updated>2021-02-04T14:27:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/gift-basket-for-grownups-2"/>
+    <title>Gift Basket for Grownups Option 2 - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/7CE92D34-4C47-4AE4-BFC1-996A3088F774.jpg?v=1614032357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.41 - 111.92
+            <a href="https://www.shopecofair.ca/products/gift-basket-for-grownups-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Basket for Grownups $80.41 (was $89.35)</p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Backscratcher - Kenya</li>
+<li>Letter Opener - Kenya</li>
+<li>Pocket Wallet * - Ghana</li>
+<li>Chocolate Bar *</li>
+<li>Coffee, 70 g ground</li>
+<li>FairMail Greeting Card * (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart. </span></p>
+<p><span>* Let us choose the chocolate bar flavour, wallet colour and card for you - otherwise please specify in cart notes.</span></p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724940079179</id>
+      <title>Gift Basket for Grownups 2 / Bolga Mini</title>
+      <s:price currency="CAD">80.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724940079179</id>
+      <title>Gift Basket for Grownups 2 / Bolga Large</title>
+      <s:price currency="CAD">111.92</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724939915339</id>
+    <published>2021-02-04T14:26:33-08:00</published>
+    <updated>2021-02-04T14:26:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/gift-basket-for-grownups"/>
+    <title>Gift Basket for Grownups - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/CFB3EBE4-E07B-4DCE-9DBD-97FBCA165E1D.jpg?v=1614032299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.60 - 111.11
+            <a href="https://www.shopecofair.ca/products/gift-basket-for-grownups">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Basket for Grownups $79.60 (was $88.45)</p>
+<ul>
+<li>Bolga Mini ($40)</li>
+<li>Shea Butter * - Ghana</li>
+<li>Peace Bar Soap * - Palestine &amp; Israel</li>
+<li>Oat Milk Chocolate Bar *</li>
+<li>Coffee, 70 g ground</li>
+<li>
+<meta charset="utf-8"> <span data-mce-fragment="1">50 bags Green or Black Organic </span>Nepali Tea in Shoulder Bag * </li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart. <meta charset="utf-8"></span></p>
+<p><span>* Let us choose the shea butter, peace soap, chocolate bar flavour, Nepali tea and card for you - otherwise please specify in cart notes. </span></p>
+<p>Tea flavours: Green, Green w/ Ginger, Green w/ Lemongrass, Black, Black w/ Ginger, Black w/ Chai Spices, Black w/ Cinnamon </p>
+<p>Shea Butter: Unscented, Vanilla, Lavender or Rosemary Mint</p>
+<p>Peace Soap: 100% Olive Oil or 80% Olive Oil w/ Pomegranate, Sage, Goat's Milk, Lemon, Honey or Dead Sea Mud.</p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939915339</id>
+      <title>Gift Basket for Grownups / Bolga Mini</title>
+      <s:price currency="CAD">79.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939915339</id>
+      <title>Gift Basket for Grownups / Bolga Large</title>
+      <s:price currency="CAD">111.11</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724939817035</id>
+    <published>2021-02-04T14:24:51-08:00</published>
+    <updated>2021-02-04T14:24:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/foodie-gift-basket"/>
+    <title>Foodie Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/0C4D33B4-E3D3-42C0-9FB2-9DCCF3CC1C51.jpg?v=1612552520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.46 - 111.96
+            <a href="https://www.shopecofair.ca/products/foodie-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Foodie Gift Basket $80.46 (was $89.40)</p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Za'atar Spice - Palestine</li>
+<li>Cinnamon - Sri Lanka</li>
+<li>Black Peppercorns - Sri Lanka</li>
+<li>Oat Milk Chocolate Bar *</li>
+<li>Coffee, 70 g ground</li>
+<li>
+<meta charset="utf-8"> <span data-mce-fragment="1">50 bags Green or Black Organic </span>Nepali Tea in Shoulder Bag * </li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart. <meta charset="utf-8">* Let us choose the chocolate bar flavour, Nepali tea and card for you - otherwise please specify in cart notes. </span></p>
+<p>Tea flavours: Green, Green w/ Ginger, Green w/ Lemongrass, Black, Black w/ Ginger, Black w/ Chai Spices, Black w/ Cinnamon </p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939817035</id>
+      <title>Foodie Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">80.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939817035</id>
+      <title>Foodie Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">111.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724937850955</id>
+    <published>2021-02-04T14:23:21-08:00</published>
+    <updated>2021-02-04T14:23:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/kids-gift-basket"/>
+    <title>Kids Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/0C9B5E36-E00D-423B-BAEB-B32CBD33AEFD.jpg?v=1614117273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            87.93 - 119.43
+            <a href="https://www.shopecofair.ca/products/kids-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kids Gift Basket $87.93 (was $97.70)<br></p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Mayan Family Playset - Guatemala</li>
+<li>Mini Soccer Ball - Pakistan</li>
+<li>Hacky Sack - Guatemala</li>
+<li>Worry Dolls - Guatemala</li>
+<li>Fruit Rind Pencil Shaker - Indonesia</li>
+<li>Trashy Zip Coin Purse - Ghana</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724937850955</id>
+      <title>Kids Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">87.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724937850955</id>
+      <title>Kids Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">119.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4723560120395</id>
+    <published>2021-02-04T14:21:48-08:00</published>
+    <updated>2021-02-04T14:21:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/gift-baskets"/>
+    <title>Baby Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/3CC9A28B-CEA3-4CE4-BD29-C66A59D53ECD.jpg?v=1613670029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            84.06 - 115.56
+            <a href="https://www.shopecofair.ca/products/gift-baskets">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Gift Basket $84.06 (was $93.40)</p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Stuffed animal, organic cotton * - Peru </li>
+<li>Bib * - Ghana </li>
+<li>Safari Memory Game, solid rubberwood - Sri Lanka</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart. </span></p>
+<p><span><meta charset="utf-8">* Let us choose the stuffed animal and bib colour  - otherwise please specify in cart notes.</span></p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4723560120395</id>
+      <title>Baby Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">84.06</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4723560120395</id>
+      <title>Baby Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">115.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724938571851</id>
+    <published>2021-01-22T11:59:45-08:00</published>
+    <updated>2021-01-22T11:59:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/valentine-gift-basket"/>
+    <title>Valentine’s Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/06B9394A-49AB-4D3C-8354-BD9DBD11D484.jpg?v=1611471566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.20 - 110.70
+            <a href="https://www.shopecofair.ca/products/valentine-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Valentine’s Gift Basket<br></p>
+<ul>
+<li>Bolga Mini small - Ghana ($40)</li>
+<li>Heart Garland, 48" long - Bangladesh</li>
+<li>2 x Oat Milk Endangered Species Chocolate Bar *</li>
+<li>50 bags Green or Black Organic Nepali Tea in Shoulder Bag *</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<p><span>* Let us choose the chocolate bar flavour and Nepali tea for you - otherwise please specify in cart notes. </span></p>
+<p>Tea flavours: Green, Green w/ Ginger, Green w/ Lemongrass, Black, Black w/ Ginger, Black w/ Chai Spices, Black w/ Cinnamon </p>
+<p> </p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938571851</id>
+      <title>Valentine&apos;s Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">79.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724938571851</id>
+      <title>Valentine&apos;s Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">110.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

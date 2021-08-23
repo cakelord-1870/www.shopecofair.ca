@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/fashion.atom"/>
+  <title>EcoFair</title>
+  <updated>2020-12-04T15:51:04-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710726107211</id>
+    <published>2020-12-04T15:51:04-08:00</published>
+    <updated>2020-12-04T15:51:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/headbands-1"/>
+    <title>Headbands</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Upavimheadbands.jpg?v=1607125936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">One size fits all.<br></p>
+<p> </p>
+<h3><strong><a href="http://www.fairtradefederation.org"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710726107211</id>
+      <title>1</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710726107211</id>
+      <title>2</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710726107211</id>
+      <title>3</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710726107211</id>
+      <title>4</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710726107211</id>
+      <title>5</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710716145739</id>
+    <published>2020-12-04T15:18:58-08:00</published>
+    <updated>2020-12-04T15:18:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/nepali-coin-purse"/>
+    <title>Nepali Coin Purse</title>
+    <s:type>each</s:type>
+    <s:vendor>New Sadle, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Nepalicoinpurse.jpg?v=1607124071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Sadle, Nepal<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_thumb.jpg?9480164677353020287">Coin Purse</h3>
+<p> </p>
+<p>Traditional Nepali coin purse for coins or other treasures! Pull on like-coloured strings to open, the other 2 to close. 4" x 4"</p>
+<p>Made in Nepal by New SADLE, Nepal. WFTO member, Fair Trade Group Nepal.</p>
+<h3><strong></strong></h3>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<blockquote>
+<h4><strong><em></em></strong></h4>
+</blockquote>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710716145739</id>
+      <title>Green</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710716145739</id>
+      <title>Orange</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710716145739</id>
+      <title>Purple</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710716145739</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710716145739</id>
+      <title>Blue</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710716145739</id>
+      <title>Pink/Red</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710716145739</id>
+      <title>Black/Blue (not shown)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701855350859</id>
+    <published>2020-11-19T14:54:12-08:00</published>
+    <updated>2020-11-19T14:54:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/sarongs-indonesia"/>
+    <title>Sarongs - Indonesia</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/89F1CE0D-E308-4C64-8D34-79C1A38A6A41.jpg?v=1605826803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sarongs</strong></p>
+<p>Beautiful women's sarongs, made with 100% rayon (a wood fibre) in Indonesia. 64" long x 46" wide. Also nice as a tablecloth, drapery, pillowcases or fabric for any other ideas.</p>
+<p>So many ways to wear a sarong - here's a quick video <a href="https://www.youtube.com/watch?v=NCp2mqZek7s">10 ways to wear a sarong</a></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <strong>Global Crafts, Indonesia</strong></p>
+<p><meta charset="utf-8"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>1</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>2</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>3</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>4</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701204283467</id>
+    <published>2020-11-18T12:23:40-08:00</published>
+    <updated>2020-11-18T12:23:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/dancing-girl-earrings"/>
+    <title>Dancing Girl Earrings</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/DG-EARRINGS.jpg?v=1605731465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These girls will "dance" all day from your ear! Handmade in Kenya with recycled pop cans and wire, and decorated with colourful beads. Literally hundreds of colour combinations - we will try to accommodate any specific request. Earrings approximately 2 1/2" high.<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Global Crafts, Kenya &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701204283467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701200744523</id>
+    <published>2020-11-18T12:15:19-08:00</published>
+    <updated>2020-11-18T12:15:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/santa-earrings"/>
+    <title>Santa Earrings</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Kenya &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/santaearrings.jpg?v=1605730596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Kenya &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Festive Santa earrings, handmade in Kenya with recycled pop cans and wire. Earrings approximately 2 1/2" high.<br></p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597">  Global Crafts, Kenya &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701200744523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4697587548235</id>
+    <published>2020-11-12T19:26:46-08:00</published>
+    <updated>2020-11-12T19:26:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/ecofair-gift-card"/>
+    <title>EcoFair Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/11AE1916-9739-42DD-B75D-2619520484B5.jpg?v=1605310757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 150.00
+            <a href="https://www.shopecofair.ca/products/ecofair-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Not sure what they'll like? Let them choose! When you purchase a Gift Card from us, you will receive an email that contains a unique gift card code that can be used at checkout to redeem its value.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$150.00 (includes FREE shipping!)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9784119495</id>
+    <published>2020-11-02T18:42:23-08:00</published>
+    <updated>2020-11-02T18:42:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/finger-pin-cushion"/>
+    <title>Finger Pin Cushion</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/PIN_CUSHIONS.jpg?v=1485825877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">If you sew, you know how handy it is to have your pins nearby. With this surprisingly comfortable finger pin cushion, you won’t even have to reach. Made from cotton scraps and a  upcycled plastic bottle cap. Handmade in Guatemala by UPAVIM Crafts.  </p>
+<p> </p>
+<h3><strong><a href="http://www.fairtradefederation.org"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784119495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188769765</id>
+    <published>2020-11-02T18:42:17-08:00</published>
+    <updated>2020-11-02T18:42:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/eco-bracelet"/>
+    <title>Eco Bracelet</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/ECO-BRACE.jpeg?v=1486937384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Eco Bracelet </strong></p>
+<p>Represents the interdependence of all facets of the earth: the earth, oceans, rainforests, atmosphere, wildlife, people, fair trade and peace. Designed by Susan Allen of the Brookfield Zoo in Chicago. Handmade recycled glass beads. Stretch band ~ 7.5", 18 cm. Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188769765</id>
+      <title>Eco Bracelet</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4690027020363</id>
+    <published>2020-10-31T13:29:02-07:00</published>
+    <updated>2020-10-31T13:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/totes"/>
+    <title>Totes</title>
+    <s:type></s:type>
+    <s:vendor>SERRV, Bangladesh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/bicycletote.jpg?v=1604176323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SERRV, Bangladesh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Bicycles back in stock! Smooth canvas tote is screenprinted with vintage bicycle and springtime flowers, <meta charset="utf-8">elephant or tree of life in a traditional Indian motif. Gusseted sides and bottom. Reinforced straps are 23"l. 15"h x 14"w x 4 1/2"d</span></p>
+<p> </p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_100x100.jpg?v=1516984597" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_100x100.jpg?v=1516984597">  SERRV, Bangladesh &amp; US, FTF member.</p>
+<div class="image pull-right col-xs-6 col-md-4"><img src="https://s3.amazonaws.com/cdn.serrv.org/images/products/ArtisanGroupLRG/Corr.jpg" alt="Artisans in Bangladesh" id="product_image-29" class="product_image popup-img img-responsive thumbnail" data-img="/images/products/ArtisanGroupPOP/Corr.jpg"></div>
+<div class="content">
+<h3>ABOUT THE ARTISAN</h3>
+<p><b>Since 1981</b>, SERRV International has partnered with artisans in Bangladesh, providing a long-term trading partnership and interest-free advance payment for our orders. Through sales of their products, these artisans also gain access to business training, awareness of women's rights, health and nutrition programs, and education for their children who would otherwise never attend school. Artisans are also able to improve their local environment, investing in deep wells for fresh drinking water, sanitary toilets in homes, and community reforestation through distribution of tree saplings.</p>
+<p>Artisans in Bangladesh use many methods to create their variety of beautiful handcrafts, including basketry, terracotta, screen printing, and macramé.</p>
+<p><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4690027020363</id>
+      <title>Bicycle</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4690027020363</id>
+      <title>Elephant</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4690027020363</id>
+      <title>Tree of Life</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/11656955155</id>
+    <published>2013-12-05T10:38:00-08:00</published>
+    <updated>2013-12-05T10:38:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/zebra-crossing-sisal-handbag"/>
+    <title>Zebra Crossing Sisal Handbag</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/ZEBRA_CROSSING_BASKET.jpg?v=1605656859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SISAL HANDBAG</strong></p>
+<p>This sturdy yet fashionable handbag goes with everything and is ready for action. Each piece is laboriously crafted from hand-twisted sisal in the traditional wakamba method of open weaving. The colouration is achieved wih natural dyes, using mango leaf, tree bark or plant roots. Over the shoulder leather handles are 28" long. Made in Kenya by MCU. </p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/11656955155</id>
+      <title>Zebra Crossing Sisal Handbag</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188775665</id>
+    <published>2013-12-05T10:12:00-08:00</published>
+    <updated>2013-12-05T10:12:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pocket-wallet"/>
+    <title>Pocket Wallet</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Pocket_Wallet.jpeg?v=1486937674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pocket Wallet</strong></p>
+<p>Made from recycled hand-batiked cotton scraps, so each one is unique and made just for you! Three slots to hold many cards and paper money plus a slot to hold coins. Durable and lightweight. Velcro close. Machine washable. Handmade in Ghana by Global Mamas.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188775665</id>
+      <title>Pocket Wallet</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188774217</id>
+    <published>2013-12-05T10:09:00-08:00</published>
+    <updated>2013-12-05T10:09:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/trashy-zip"/>
+    <title>Trashy Zip</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/TrashyZip.jpeg?v=1386267139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Trashy Zip</strong></p>
+<p>Trash to treasure! Made from 100% post-consumer, upcycled plastic water sachets, which once held drinking water in Ghana. In Ghana, water is sold in these plastic sachets and 270 tonnes of plastic waste is generated every day, the vast majority sachets for water and ice cream, and with no recycling program, much ends up littered on the streets. Each bag is carefully washed and disinfected before being sewn in a small workshop in Madina, Ghana.</p>
+<p>Each is unique. Durable zip top. Handmade in Ghana by Global Mamas.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188774217</id>
+      <title>Trashy Zip</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1709552500770</id>
+    <published>2013-12-05T09:58:00-08:00</published>
+    <updated>2013-12-05T09:58:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/sarongs"/>
+    <title>Sarongs - Ghana</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0105.JPG?v=1551512908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sarongs</strong></p>
+<p>Beautiful women's sarongs, made with organic hand-batiked cotton in Ghana. 72" long x 45" wide. Also nice as a tablecloth, drapery, pillowcases or fabric for any other ideas.</p>
+<p>So many ways to wear a sarong - here's a quick video <a href="https://www.youtube.com/watch?v=NCp2mqZek7s" data-mce-href="https://www.youtube.com/watch?v=NCp2mqZek7s">10 ways to wear a sarong</a></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <strong>Global Mamas, GHANA</strong></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Sunflower Red</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Fissure Black</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Dahlia Wine</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9858909639</id>
+    <published>2013-12-05T09:58:00-08:00</published>
+    <updated>2013-12-05T09:58:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/tree-of-life-bracelet"/>
+    <title>Tree of Life Bracelet</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/tree_of_life.jpg?v=1486937430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tree of Life Bracelet </strong></p>
+<p>Each bead has a meaning: reach for the SKY remaining grounded by your ROOTS. If you lose LEAVES new ones will grow with the beauty and bounty of WISDOM. Mix of handmade recycled glass beads and bauxite. Stretch band ~ 7.5", 18 cm. Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9858909639</id>
+      <title>Tree of Life Bracelet</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/589076693026</id>
+    <published>2013-12-02T11:30:00-08:00</published>
+    <updated>2013-12-02T11:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/shoulder-bag-from-nepal"/>
+    <title>Shoulder Bag from Nepal</title>
+    <s:type>each</s:type>
+    <s:vendor>KTE &amp; New SADLE, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/029DE479-B93F-40DC-AC7E-1E5215ABE113.jpg?v=1604090481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KTE &amp; New SADLE, Nepal<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  New SADLE, Nepal</strong></h3>
+<p>This beautiful shoulder bag (over-the-shoulder strap, 2 pocket, zipper close, tassles with beads) is made by New SADLE, a certified fair trade group by WFTO (Fair Trade Group Nepal). </p>
+<p>Please specify colour and either satin or cotton fabric. B<span class="Apple-tab-span">ag: 15cm w x 18 </span>cm <span class="Apple-tab-span">h, shoulder strap 160 cm long.</span></p>
+<div>New SADLE (New Skill and Development Learning Experience) provides free medical treatment, food, housing, and education to ex-leprosy and ex-polio affected social outcasts in Kathmandu. Their employment and reintegration program promotes self respect and dignity. WFTO member (Fair Trade Group Nepal). </div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<blockquote>
+<h4><strong><em></em></strong></h4>
+</blockquote>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/589076693026</id>
+      <title>Shoulder Bag</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

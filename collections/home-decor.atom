@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/home-decor.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-02-04T10:35:52-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701853286475</id>
+    <published>2021-02-04T10:35:52-08:00</published>
+    <updated>2021-02-04T10:35:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/batik-throw"/>
+    <title>Batik Throw</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/glmamasthrow.jpg?v=1606086144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Front is patchwork of batik fabric scraps. Back is patchwork of upcycled flour sacks. Each one is unique. 49.5''W x 60''L. 100% cotton.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701853286475</id>
+      <title>Left</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701853286475</id>
+      <title>Middle</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701853286475</id>
+      <title>Right</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4731906359371</id>
+    <published>2021-01-30T14:49:26-08:00</published>
+    <updated>2021-01-30T14:49:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/letter-opener"/>
+    <title>Letter Opener</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/6A26FEA1-1DF4-4A5C-87D6-9B6330D22206.jpg?v=1614030379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wise Man Letter Opener</strong></p>
+<p>Will open any envelope with ease and look great on your desk. Hand-carved in Kenya by MCU from sustainably harvested jacaranda, replaced by seedlings from MCU's tree nursery. MCU has embarked on an environmental conservation program to rehabilitate the forests, including a tree nursery project. 7.5 " length.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4731906359371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1683709984802</id>
+    <published>2020-11-30T19:03:09-08:00</published>
+    <updated>2020-11-30T19:03:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/doodle-candle"/>
+    <title>Doodle Candles</title>
+    <s:type>6 oz</s:type>
+    <s:vendor>Prosperity Candles, US &amp; others</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0086.JPG?v=1547829250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity Candles, US &amp; others<br>
+        <strong>Type: </strong>6 oz<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Choose from our three doodle designs - Poppies, Whimsical or Village - and they can transform a candle into a beautiful and bright piece for home or travels. A perfect creative outlet for adults who need to decompress after a long day or teens who have a love for decorating. Each candle is paired with a special fragrance. </p>
+<p><span><br>Poppies Doodle Candle in Floral + Musk Fragrance: Nature has a place in every home. Who doesn't love the beautiful design of poppies? Bring these flowers to life with some color!<br><br>Whimsical Doodle Candle in Chamomile + Sage: When it comes to doodling, nothing is more fun than coloring in a wild abstract design. This is the quintessence of relaxing.<br><br>Village Doodle Candle in Sandalwood + Oakmoss: Whether you grew up in New York City or in the country landscape, our Village Doodle Candle will remind you of your favorite architectures and transport you.<br><br>Each Doodle Candle is 6 oz and burns approximately 28 hours. The candle lid and sides are designed to be easily colored in your favorite colored pencils, pens or markers. Soy and coconut blend, easily recycled when finished. Click on the details tab above for more information.</span></p>
+<meta charset="utf-8">
+<p style="text-align: left;"><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/Prosperity_candle_grande.jpg?v=1508089489" style="float: none;"></p>
+<p><span>Prosperity Candle is a social enterprise that supports refugees and artisans through candle-making and beautifully crafted vessels easily refilled or repurposed for a lifetime of enjoyment.</span></p>
+<p><span>Every candle is handpoured by a woman artisan building a brighter future for herself and her family using the highest quality waxes, natural cotton and wood wicks, and premium fragrances made with essential oils. They never add any dyes or enhancers. </span></p>
+<p>WFTO associate member.</p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/Iraq_large.jpg?v=1508090196" alt=""><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/haiti_large.jpg?v=1508090169" alt=""><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/workshop_large.jpg?v=1508090182" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1683709984802</id>
+      <title>Poppies - Floral &amp; Musk</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1683709984802</id>
+      <title>Whimsical - Chamomile &amp; Sage</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1683709984802</id>
+      <title>Village - Sandlewood &amp; Oakmoss</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701855350859</id>
+    <published>2020-11-19T14:54:12-08:00</published>
+    <updated>2020-11-19T14:54:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/sarongs-indonesia"/>
+    <title>Sarongs - Indonesia</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/89F1CE0D-E308-4C64-8D34-79C1A38A6A41.jpg?v=1605826803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sarongs</strong></p>
+<p>Beautiful women's sarongs, made with 100% rayon (a wood fibre) in Indonesia. 64" long x 46" wide. Also nice as a tablecloth, drapery, pillowcases or fabric for any other ideas.</p>
+<p>So many ways to wear a sarong - here's a quick video <a href="https://www.youtube.com/watch?v=NCp2mqZek7s">10 ways to wear a sarong</a></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <strong>Global Crafts, Indonesia</strong></p>
+<p><meta charset="utf-8"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>1</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>2</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>3</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701855350859</id>
+      <title>4</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4697934528587</id>
+    <published>2020-11-13T20:30:56-08:00</published>
+    <updated>2020-11-13T20:30:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/candleholder"/>
+    <title>Candleholder</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/5E8C1C33-7E17-46A7-B3FC-71B5D123FB29_efaec016-f82a-4756-89d1-355c7cbe8fb7.jpg?v=1605404809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">These cute terracotta pieces are made from the riverbed clay of the Chenautla area of Guatemala. Families sculpt each piece by hand, dry it in the sun, paint it with a red clay slip, polish it, and then finally fire it. The firing process involves placing the objects on a grate above a pine bark fire with a covering of grass for 2-3 hours. The occasional unique black spot can sometimes be found on the piece and is a tribute to this ancient firing process. Angel, Elephant, Owl or Dove. * Note Dove candleholder is actually for larger tapers but with some ingenuity it will work with the smaller tapers as well.</span></p>
+<p>These hand-dipped candles are made from the seed of the Arrayán tree in the cloud rainforest of Guatemala by the indigenous Mayan Q’ eychi’ women. The seeds are collected and heated into wax, providing a natural alternative to synthetic candles and a source of income to supplement their subsistence farming. With outside income they are less inclined to slash and burn the rainforest to grow crops. Arrayán candles are an ancient tradition, used by the Mayans to ask the God of the Mountain for health, money, work, and abundance of crops. The scent and light of these candles are said to bring together the Oxlaju Tzull Taq’a (the 13 Sacred Mountains). Handmade in Guatemala by <span>Luz de Bosque</span>, UPAVIM.</p>
+<p><span id="fbPhotoSnowliftCaption" data-ft='{"type":45,"tn":"*G"}' aria-live="polite" tabindex="0" class="fbPhotosPhotoCaption"><span class="hasCaption"><em>﻿</em>Click the link to have a visit </span></span><a title="candles" href="http://ecohostalmisterioverde.jimdo.com/luz-de-bosque/"><span id="fbPhotoSnowliftCaption" data-ft='{"type":45,"tn":"*G"}' aria-live="polite" tabindex="0" class="fbPhotosPhotoCaption"><span class="hasCaption">http://ecoquetzal.org/<wbr><span class="word_break"></span>handicraft.php</wbr></span></span><span id="fbPhotoSnowliftTagList" class="fbPhotoTagList"><span class="fcg"> </span></span></a></p>
+<p>10 SMALL TAPER RAINFOREST CANDLES </p>
+<p>No drip, approx. 90 mins. burn time per candle.</p>
+<p>15 cm H</p>
+<h3><strong><a href="http://www.fairtradefederation.org"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697934528587</id>
+      <title>Dove, white</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697934528587</id>
+      <title>Dove, natural</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697934528587</id>
+      <title>Angel</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697934528587</id>
+      <title>Lucky Elephant</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697934528587</id>
+      <title>Owl</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4697587548235</id>
+    <published>2020-11-12T19:26:46-08:00</published>
+    <updated>2020-11-12T19:26:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/ecofair-gift-card"/>
+    <title>EcoFair Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/11AE1916-9739-42DD-B75D-2619520484B5.jpg?v=1605310757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 150.00
+            <a href="https://www.shopecofair.ca/products/ecofair-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Not sure what they'll like? Let them choose! When you purchase a Gift Card from us, you will receive an email that contains a unique gift card code that can be used at checkout to redeem its value.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$150.00 (includes FREE shipping!)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4694163587147</id>
+    <published>2020-11-06T10:00:14-08:00</published>
+    <updated>2020-11-06T10:00:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/candleholder-10-rainforest-candles"/>
+    <title>Candleholder &amp; 10 Rainforest Candles</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/D8583E56-CEC5-48BA-BECC-962D611CD8D1.jpg?v=1605465515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">These cute terracotta pieces are made from the riverbed clay of the Chenautla area of Guatemala. Families sculpt each piece by hand, dry it in the sun, paint it with a red clay slip, polish it, and then finally fire it. The firing process involves placing the objects on a grate above a pine bark fire with a covering of grass for 2-3 hours. The occasional unique black spot can sometimes be found on the piece and is a tribute to this ancient firing process. Angel, Elephant, Owl or Dove. * Note Dove candleholder is actually for larger tapers but with some ingenuity it will work with the smaller tapers as well.</span></p>
+<p>These hand-dipped candles are made from the seed of the Arrayán tree in the cloud rainforest of Guatemala by the indigenous Mayan Q’ eychi’ women. The seeds are collected and heated into wax, providing a natural alternative to synthetic candles and a source of income to supplement their subsistence farming. With outside income they are less inclined to slash and burn the rainforest to grow crops. Arrayán candles are an ancient tradition, used by the Mayans to ask the God of the Mountain for health, money, work, and abundance of crops. The scent and light of these candles are said to bring together the Oxlaju Tzull Taq’a (the 13 Sacred Mountains). Handmade in Guatemala by <span>Luz de Bosque</span>, UPAVIM.</p>
+<p><span id="fbPhotoSnowliftCaption" data-ft='{"type":45,"tn":"*G"}' aria-live="polite" tabindex="0" class="fbPhotosPhotoCaption"><span class="hasCaption"><em>﻿</em>Click the link to have a visit </span></span><a title="candles" href="http://ecohostalmisterioverde.jimdo.com/luz-de-bosque/"><span id="fbPhotoSnowliftCaption" data-ft='{"type":45,"tn":"*G"}' aria-live="polite" tabindex="0" class="fbPhotosPhotoCaption"><span class="hasCaption">http://ecoquetzal.org/<wbr><span class="word_break"></span>handicraft.php</wbr></span></span><span id="fbPhotoSnowliftTagList" class="fbPhotoTagList"><span class="fcg"> </span></span></a></p>
+<p>10 SMALL TAPER RAINFOREST CANDLES </p>
+<p>No drip, approx. 90 minutes burn time per candle.</p>
+<p>15 cm H</p>
+<h3><strong><a href="http://www.fairtradefederation.org"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4694163587147</id>
+      <title>Angel &amp; 10 Rainforest Candles</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4694163587147</id>
+      <title>Lucky Elephant &amp; 10 Rainforest Candles</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4694163587147</id>
+      <title>Owl &amp; 10 Rainforest Candles</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4694163587147</id>
+      <title>Dove &amp; 10 Rainforest Candles</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4693824176203</id>
+    <published>2020-11-05T13:10:42-08:00</published>
+    <updated>2020-11-05T13:10:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pine-needle-bowl-basket"/>
+    <title>Pine Needle Bowl Basket</title>
+    <s:type></s:type>
+    <s:vendor>Mayan Hands, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/7708A799-B050-48D6-9D73-5CA3DAA4DD1C.jpg?v=1607639421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mayan Hands, Guatemala<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Pine needle bowl basket handwoven of longleaf pine needles and natural raffia , great as a bread basket, or will hold anything from precious items to keys... but also good simply as is, to display its intricate interior pattern. Made in Guatemala. 10.5" l x 9.75" w x </span> 3" h.<br></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597"> Mayan Hands, Guatemala</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4693824176203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4693797175371</id>
+    <published>2020-11-05T11:13:02-08:00</published>
+    <updated>2020-11-05T11:13:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/garden-geckos-frogs"/>
+    <title>Garden Geckos &amp; Frogs</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Haiti &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/geckos.jpg?v=1604603652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Haiti &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by artisans in Haiti.  <span>This metal garden art is handmade from steel drums and brightly painted. Gecko is 12" long, frog is 8" long.</span></p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597" alt="">  Global Crafts, Haiti &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4693797175371</id>
+      <title>Gecko 12&quot;</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4693797175371</id>
+      <title>Frog 8&quot;</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4693793865803</id>
+    <published>2020-11-05T11:05:36-08:00</published>
+    <updated>2020-11-05T11:05:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/gourd-containers"/>
+    <title>Gourd Containers</title>
+    <s:type>each</s:type>
+    <s:vendor>Bridge of Hope, Peru</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/743F43B1-A7E8-46B9-8CA1-A7F13C35ACA4.jpg?v=1604610092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bridge of Hope, Peru<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by artisans in Peru. Beautifully hand-painted containers with removable lids.  Hummingbird, tree or butterfly designs. ~4" tall, ~4" wide, expect wide variations due to natural gourd shapes.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  BRIDGE OF HOPE, PERU</strong></p>
+<p class="p1"><meta charset="utf-8">Bridge of Hope builds bridges between artisans and socially responsible consumers. Bridge of Hope is confronting the root causes of poverty by providing an alternative way of doing business, in order that the artisans from the most impoverished areas of the country have opportunity for development and direct access to markets. They promote Fair Trade in order to offer the producers and artisans of Peru acceptable social and labor conditions and a just wage for their work. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4693793865803</id>
+      <title>Hummingbird</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4693793865803</id>
+      <title>Trees</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4693793865803</id>
+      <title>Butterfly</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4543152881739</id>
+    <published>2020-11-02T18:42:28-08:00</published>
+    <updated>2020-11-02T18:42:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/haitian-angel"/>
+    <title>Haitian Angel</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Haiti &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0144.jpg?v=1588365609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Haiti &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by artisans in Haiti.  <span>This metal art holiday decoration is 4 inches tall. Great on a table or mantle, or as a small Christmas tree topper! Handmade from steel drums and brightly painted.</span></p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597" alt="">  Global Crafts, Haiti &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4543152881739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1683713490978</id>
+    <published>2020-11-02T18:42:27-08:00</published>
+    <updated>2020-11-02T18:42:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/culinary-candle"/>
+    <title>Culinary Candle</title>
+    <s:type>10 oz</s:type>
+    <s:vendor>Prosperity Candles, US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/image_3ec14a0e-7ae0-4ecb-8753-8f2c39916553.jpeg?v=1593132471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity Candles, US<br>
+        <strong>Type: </strong>10 oz<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Soy blend, 45 hour candle, easily recycled when finished. </p>
+<meta charset="utf-8">
+<p style="text-align: left;"><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/Prosperity_candle_grande.jpg?v=1508089489" style="float: none;"></p>
+<p><span>Prosperity Candle is a social enterprise that supports refugees and artisans through candle-making and beautifully crafted vessels easily refilled or repurposed for a lifetime of enjoyment.</span></p>
+<p><span>Every candle is handpoured by a woman artisan building a brighter future for herself and her family using the highest quality waxes, natural cotton and wood wicks, and premium fragrances made with essential oils. They never add any dyes or enhancers. </span></p>
+<p>WFTO associate member.</p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/Iraq_large.jpg?v=1508090196" alt=""><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/haiti_large.jpg?v=1508090169" alt=""><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/workshop_large.jpg?v=1508090182" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1683713490978</id>
+      <title>Rosemary Mint</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1677973225506</id>
+    <published>2020-11-02T18:42:26-08:00</published>
+    <updated>2020-11-02T18:42:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/heart-garland"/>
+    <title>Heart Garland</title>
+    <s:type>Each</s:type>
+    <s:vendor>Prokritee, Bangladesh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/B1E90446-B251-408D-A3D5-0FE6F3801E03.jpeg?v=1547272282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prokritee, Bangladesh<br>
+        <strong>Type: </strong>Each<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?v=1516984597"> Back in stock! These beautiful heart garlands are made with upcycled cotton saris, handmade in Bangladesh by Prokritee, a fair trade enterprise supporting over 1,500 artisans in rural areas.</p>
+<p>Hang or display them anywhere, anytime - not just Valentine's Day - and feel the love! 48" l, 3" w. WFTO member. <a href="http://www.prokritee.com">www.prokritee.com</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1677973225506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9784119495</id>
+    <published>2020-11-02T18:42:23-08:00</published>
+    <updated>2020-11-02T18:42:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/finger-pin-cushion"/>
+    <title>Finger Pin Cushion</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/PIN_CUSHIONS.jpg?v=1485825877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">If you sew, you know how handy it is to have your pins nearby. With this surprisingly comfortable finger pin cushion, you won’t even have to reach. Made from cotton scraps and a  upcycled plastic bottle cap. Handmade in Guatemala by UPAVIM Crafts.  </p>
+<p> </p>
+<h3><strong><a href="http://www.fairtradefederation.org"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9784119495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188793129</id>
+    <published>2020-11-02T18:42:18-08:00</published>
+    <updated>2020-11-02T18:42:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/backscratchers"/>
+    <title>Backscratchers</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Backscratcher.jpeg?v=1386269182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95 - 19.95
+            <a href="https://www.shopecofair.ca/products/backscratchers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Backscratchers</strong></p>
+<p>Choose from 2 backscratchers, handcarved in Kenya from brown olive wood. Elephant backscratcher is 11" long, regular backscratcher is 16" long.  Either will lend a hand relieving any itch, including those in the worst places - where you can’t reach. Will adorn any room when not in use. Handmade in Kenya by MCU.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188793129</id>
+      <title>Elephant</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188793129</id>
+      <title>Backscratcher - 16&quot; long</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188789077</id>
+    <published>2020-11-02T18:42:18-08:00</published>
+    <updated>2020-11-02T18:42:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/animal-doorstoppers"/>
+    <title>Animal Doorstoppers</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/DOOR-G.jpeg?v=1611975132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>DOOR STOPPER</strong></p>
+<p>Let the breeze flow with these functional and attractive handcarved wooden door stoppers. Choice of Giraffe, Zebra or Elephant. Made in Kenya by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests, including a tree nursery project.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188789077</id>
+      <title>Zebra Doorstopper</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188789077</id>
+      <title>Giraffe Door Stopper</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188789077</id>
+      <title>Elephant Doorstopper</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689427300427</id>
+    <published>2020-10-29T18:06:50-07:00</published>
+    <updated>2020-10-29T18:06:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/heart-garland-1"/>
+    <title>Heart Garland</title>
+    <s:type>each</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/6E6DFAA4-AA00-4518-B169-55BB105AD804.jpg?v=1611968717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Love is in the air - literally! Make your home (and hearts) festive on Valentine's Day or every day with our reversible String of Hearts Garland that is sure to liven up any room! Each heart is made from traditional Guatemalan fabric and they all hang from a satin cord. As always, Handmade and Fair Trade!</p>
+<ul>
+<li>Garland is 56" L</li>
+<li>Hearts are 3" W x 3" H</li>
+<li>100% Cotton</li>
+</ul>
+<p>15 cm H</p>
+<h3><strong><a href="http://www.fairtradefederation.org/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689427300427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/12576007955</id>
+    <published>2020-06-25T16:29:38-07:00</published>
+    <updated>2020-06-25T16:29:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/holiday-series-quote-tin"/>
+    <title>Holiday Series Quote Tin</title>
+    <s:type>4 oz</s:type>
+    <s:vendor>Prosperity Candles, US, Iraq, Haiti &amp; others</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Holiday_Series_Quote_Tins.jpg?v=1508090510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity Candles, US, Iraq, Haiti &amp; others<br>
+        <strong>Type: </strong>4 oz<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These popular fair trade travel tin candles are back with holiday scents and inspiring quotes. These fragrances conjure the warmth of the holidays!</p>
+<p>A great hostess gift and perfect way to be inspired during the holiday season, wherever you go.</p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Peppermint Drop</strong> <br>"Giving opens the way to receiving."   <em>Florence</em> <em>Scovel Shinn</em> <i><br></i></p>
+<p><strong>Chai Tea</strong> <br>"Optimism is the faith that leads to achievement."  <em>Helen Keller</em> <i><br></i></p>
+<p><strong>Cinnamon &amp; Clove</strong> <br>"Life itself is the proper binge."  <em>Julia Child</em> <i><br></i></p>
+<p><strong>Blue Fir &amp; Spice</strong> <br>"The best thing to hold onto in life is each other."  <em>Audrey Hepburn</em></p>
+<p><strong>Vanilla &amp; Cream</strong> <br>"Spread love wherever you go." <em>Mother Teresa</em></p>
+<p><b>Wax:</b><span>  soy blend candle with cotton wick </span><br><b>Fragrance:</b><span>  made with essential oils </span><span></span><span></span><br><b>Dimensions: </b><span> 4oz is 3” W x 2” H</span><br><b>Burn time:</b><span>  4oz about 18 hours</span><br><b>Container:</b><span>  recyclable aluminum  </span><b><br>Packaging: </b><span>story cards of the women candle-makers included</span></p>
+<meta charset="utf-8">
+<p><span><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/Prosperity_candle_large.jpg?v=1508089489" alt="" width="494" height="69"></span></p>
+<p><span>Prosperity Candle is a social enterprise that supports refugees and artisans through candle-making and beautifully crafted vessels easily refilled or repurposed for a lifetime of enjoyment.</span></p>
+<p><span>Every candle is handpoured by a woman artisan building a brighter future for herself and her family using the highest quality waxes, natural cotton and wood wicks, and premium fragrances made with essential oils. They never add any dyes or enhancers. </span></p>
+<p><span>WFTO associate member.</span></p>
+<p> </p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/Iraq_large.jpg?v=1508090196" alt=""><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/haiti_large.jpg?v=1508090169" alt=""><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/workshop_large.jpg?v=1508090182" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/12576007955</id>
+      <title>Cinnamon &amp; Clove</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/12576007955</id>
+      <title>Blue Fir &amp; Spice</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4318893572171</id>
+    <published>2019-10-26T12:57:55-07:00</published>
+    <updated>2019-10-26T12:57:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/rethread-throws"/>
+    <title>ReThread Throws</title>
+    <s:type></s:type>
+    <s:vendor>Asha Handicrafts, India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0135.jpg?v=1605662666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts, India<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The ultimate in sustainable comfort, this remarkable cotton throw is made from recycled clothing, which is separated and spun by hand into new threads. The threads are then overdyed and re-woven on jacquard looms to create a soft, lightweight throw. Throw has varied woven patterns and knotted fringe ends. Hand wash, line dry. 60% cotton, 40% mix of polyester, viscose and rayon. 60"l x 50"w.</p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_50x50.jpg?v=1516984597" alt="">Asha Handicrafts</strong> preserves India's diverse craft traditions, ensuring a fair wage for those who craft their remarkable handiwork. Your purchase creates income and social reform for hundreds. Profits are directly channeled into tailor-made projects that meet the needs of artisans and their community.<br><br>A leading fair trade organization since 1975, Asha Handicrafts was begun with the mandate to "trade, train, and transform." Even its name (asha means "hope" in Sanskrit) inspires a new, hopeful model for doing business. In addition to providing needed income through the sales, marketing, and export of handcrafted products, Asha is committed to the overall well-being of artisans. Welfare workers work closely with artisans and their families to provide health clinics and education for children, increase sanitation, and improve living conditions. Other benefits include interest-free loans, business and computer training, and advances to purchase raw materials. Based in Mumbai, Asha is impacting the lives of over 800 artisans in more than 50 cooperatives and family workshops throughout India. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4318893572171</id>
+      <title>Red</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4318893572171</id>
+      <title>Mustard</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4318893572171</id>
+      <title>Moss</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4318893572171</id>
+      <title>Blue</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4318893572171</id>
+      <title>Violet Herringbone</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4318893572171</id>
+      <title>Black Diamond</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4318893572171</id>
+      <title>Blue Herringbone</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1709552500770</id>
+    <published>2013-12-05T09:58:00-08:00</published>
+    <updated>2013-12-05T09:58:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/sarongs"/>
+    <title>Sarongs - Ghana</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0105.JPG?v=1551512908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sarongs</strong></p>
+<p>Beautiful women's sarongs, made with organic hand-batiked cotton in Ghana. 72" long x 45" wide. Also nice as a tablecloth, drapery, pillowcases or fabric for any other ideas.</p>
+<p>So many ways to wear a sarong - here's a quick video <a href="https://www.youtube.com/watch?v=NCp2mqZek7s" data-mce-href="https://www.youtube.com/watch?v=NCp2mqZek7s">10 ways to wear a sarong</a></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <strong>Global Mamas, GHANA</strong></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Sunflower Red</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Fissure Black</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Dahlia Wine</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/187837145</id>
+    <published>2013-12-03T13:08:00-08:00</published>
+    <updated>2013-12-03T13:08:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/rainforest-candles"/>
+    <title>Rainforest Candles Taper 10s</title>
+    <s:type>10 pk</s:type>
+    <s:vendor>UPAVIM, Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/90A3F6F9-815B-4B4A-9EB8-FE9E99EE41CC.jpg?v=1593217980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPAVIM, Guatemala<br>
+        <strong>Type: </strong>10 pk<br>
+        <strong>Price: </strong>
+            12.95 - 33.00
+            <a href="https://www.shopecofair.ca/products/rainforest-candles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These hand-dipped candles are made from the seed of the Arrayán tree in the cloud rainforest of Guatemala by the indigenous Mayan Q’ eychi’ women. The seeds are collected and heated into wax, providing a natural alternative to synthetic candles and a source of income to supplement their subsistence farming. With outside income they are less inclined to slash and burn the rainforest to grow crops. Arrayán candles are an ancient tradition, used by the Mayans to ask the God of the Mountain for health, money, work, and abundance of crops. The scent and light of these candles are said to bring together the Oxlaju Tzull Taq’a (the 13 Sacred Mountains). Handmade in Guatemala by <span>Luz de Bosque</span>, UPAVIM.</p>
+<p><span id="fbPhotoSnowliftCaption" data-ft='{"type":45,"tn":"*G"}' aria-live="polite" tabindex="0" class="fbPhotosPhotoCaption"><span class="hasCaption"><em>﻿</em>Click the link to have a visit </span></span><a href="https://grassrootsguatemala.wordpress.com/2009/05/11/bidas-proyecto-eco-quetzal/" title="candles"><span id="fbPhotoSnowliftCaption" data-ft='{"type":45,"tn":"*G"}' aria-live="polite" tabindex="0" class="fbPhotosPhotoCaption"><span class="hasCaption">http://ecoquetzal.org/<wbr><span class="word_break"></span>handicraft.php</wbr></span></span></a><a title="candles" href="http://ecohostalmisterioverde.jimdo.com/luz-de-bosque/"><span id="fbPhotoSnowliftTagList" class="fbPhotoTagList"><span class="fcg"> </span></span></a></p>
+<p>10 SMALL TAPER RAINFOREST CANDLES </p>
+<p>No drip, approx. 90 minutes burn time per candle.</p>
+<p>15 cm H</p>
+<h3><strong><a href="http://www.fairtradefederation.org"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a>  UPAVIM, Guatemala</strong></h3>
+<p>UPAVIM is a group of 65 marginalized women artisans living near Guatemala City. Fair Trade sales provide sustainable incomes, a medical and dental clinic, an elementary school and daycare, 625 school scholarships, and much more. FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187837145</id>
+      <title>1 for $12.95</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187837145</id>
+      <title>2 for $24</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187837145</id>
+      <title>3 for $33</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

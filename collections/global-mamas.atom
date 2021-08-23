@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/global-mamas.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-02-04T10:35:52-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4701853286475</id>
+    <published>2021-02-04T10:35:52-08:00</published>
+    <updated>2021-02-04T10:35:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/batik-throw"/>
+    <title>Batik Throw</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/glmamasthrow.jpg?v=1606086144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Front is patchwork of batik fabric scraps. Back is patchwork of upcycled flour sacks. Each one is unique. 49.5''W x 60''L. 100% cotton.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701853286475</id>
+      <title>Left</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701853286475</id>
+      <title>Middle</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4701853286475</id>
+      <title>Right</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710406946891</id>
+    <published>2020-12-03T15:15:47-08:00</published>
+    <updated>2020-12-03T15:15:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/bibs"/>
+    <title>Bibs</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/bibs.jpg?v=1607037425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bibs</strong></p>
+<p>Made from hand-batiked cotton with an upcycled flour sack liner on the back. Velcro close. Machine washable. Handmade in Ghana by Global Mamas.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710406946891</id>
+      <title>Pink</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710406946891</id>
+      <title>Blue</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710406946891</id>
+      <title>Purple</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710406946891</id>
+      <title>Green</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689403445323</id>
+    <published>2020-11-02T18:42:29-08:00</published>
+    <updated>2020-11-02T18:42:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/angel-ornament"/>
+    <title>Angel Beaded Ornament</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/angelbeaded.jpg?v=1604016062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beads made from recycled glass. Wire framework and loop for hanging. Raffia tie.</p>
+<p>Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689403445323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/12576100819</id>
+    <published>2020-11-02T18:42:26-08:00</published>
+    <updated>2020-11-02T18:42:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/global-mamas-ghana"/>
+    <title>Global Mamas, Ghana</title>
+    <s:type></s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/GM3_medium_6a709ff6-47e0-47ba-8392-fe17abe90733.jpg?v=1508096602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><a href="http://www.wfto.com/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821"></a> <a href="http://www.fairtradefederation.org/"> <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></a><br><br>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/GM3_medium.jpg?8583057457351982180">  <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/GM5shea_medium.jpg?8583057457351982180">  <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/GM2_medium.jpg?8583057457351982180">  <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/GM3_bbd5161a-b7e9-4e23-a118-7ca7f5d37579_medium.jpg?11460801747109839260"></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/globalmamas_large.jpg?v=1486937538" alt=""><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/kiln_large.jpg?v=1486937559" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/12576100819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1841070657</id>
+    <published>2020-11-02T18:42:20-08:00</published>
+    <updated>2020-11-02T18:42:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/coasters"/>
+    <title>Coasters</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/coasters2.jpg?v=1607127040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Coasters</strong></p>
+<meta charset="utf-8">
+<p><span>Set of four packaged with raffia tie. Reversible. Reinforced for stability. 4”x 4”. 100% cotton shell.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1841070657</id>
+      <title>Burgundy</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1841070657</id>
+      <title>Green</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1841070657</id>
+      <title>Red (green backing)</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188769765</id>
+    <published>2020-11-02T18:42:17-08:00</published>
+    <updated>2020-11-02T18:42:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/eco-bracelet"/>
+    <title>Eco Bracelet</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/ECO-BRACE.jpeg?v=1486937384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Eco Bracelet </strong></p>
+<p>Represents the interdependence of all facets of the earth: the earth, oceans, rainforests, atmosphere, wildlife, people, fair trade and peace. Designed by Susan Allen of the Brookfield Zoo in Chicago. Handmade recycled glass beads. Stretch band ~ 7.5", 18 cm. Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188769765</id>
+      <title>Eco Bracelet</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4689404100683</id>
+    <published>2020-10-29T16:56:27-07:00</published>
+    <updated>2020-10-29T16:56:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/star-ornament"/>
+    <title>Star Ornament</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/starornament.jpg?v=1604015964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Beads made from recycled glass. Adinkra bead hand painted with the symbol for Gye Nyame. Tag defines the meaning which symbolizes the belief that God is above all and reflects Ghana's spiritual roots. Wire framework and loop for hanging. Raffia tie.</span></p>
+<p>Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4689404100683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9660299079</id>
+    <published>2017-01-09T16:25:00-08:00</published>
+    <updated>2017-01-09T16:25:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pets-sudsy-mutt-shea-shampoo-bar-tea-tree-citronella"/>
+    <title>Pets Sudsy Mutt Shea Shampoo Bar - Tea Tree/Citronella</title>
+    <s:type></s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/petsoap.jpg?v=1484008236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Sudsy Mutt Shea Butter Shampoo Bar with pure tea tree and citronella herbal oils. Handmade in Ghana. Plastic packaging made from 100% upcycled polyethylene plastic (packets sold with safe drinking water inside) from Ghana. Ingredients: pure unrefined shea butter, coconut oil, sodium hydroxide, essential oils. 4.2 oz/120 gm bar.</p>
+<meta charset="utf-8">
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821"><span>  </span><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821"><span>    </span><strong>Global Mamas, GHANA</strong><br><br><span>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660299079</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9660290375</id>
+    <published>2017-01-09T16:21:00-08:00</published>
+    <updated>2017-01-09T16:21:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/bow-ties"/>
+    <title>Pet Bowties</title>
+    <s:type></s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/charlie2.jpg?v=1605828182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Assorted prints and colors. Simply slides over dog collar. 1.75" collar loop opening. Bowtie 2.5"H x 3.75"W. 100% organic cotton. Choose from left to right.</p>
+<meta charset="utf-8">
+<p class="p1"><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821"><span>  </span><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821"><span>    </span><span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span><br><br><span>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>1</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>2</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>3</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>4</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>5</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>6</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>7</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9660290375</id>
+      <title>8</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188775665</id>
+    <published>2013-12-05T10:12:00-08:00</published>
+    <updated>2013-12-05T10:12:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/pocket-wallet"/>
+    <title>Pocket Wallet</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Pocket_Wallet.jpeg?v=1486937674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pocket Wallet</strong></p>
+<p>Made from recycled hand-batiked cotton scraps, so each one is unique and made just for you! Three slots to hold many cards and paper money plus a slot to hold coins. Durable and lightweight. Velcro close. Machine washable. Handmade in Ghana by Global Mamas.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188775665</id>
+      <title>Pocket Wallet</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188774217</id>
+    <published>2013-12-05T10:09:00-08:00</published>
+    <updated>2013-12-05T10:09:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/trashy-zip"/>
+    <title>Trashy Zip</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/TrashyZip.jpeg?v=1386267139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Trashy Zip</strong></p>
+<p>Trash to treasure! Made from 100% post-consumer, upcycled plastic water sachets, which once held drinking water in Ghana. In Ghana, water is sold in these plastic sachets and 270 tonnes of plastic waste is generated every day, the vast majority sachets for water and ice cream, and with no recycling program, much ends up littered on the streets. Each bag is carefully washed and disinfected before being sewn in a small workshop in Madina, Ghana.</p>
+<p>Each is unique. Durable zip top. Handmade in Ghana by Global Mamas.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188774217</id>
+      <title>Trashy Zip</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1709552500770</id>
+    <published>2013-12-05T09:58:00-08:00</published>
+    <updated>2013-12-05T09:58:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/sarongs"/>
+    <title>Sarongs - Ghana</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0105.JPG?v=1551512908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sarongs</strong></p>
+<p>Beautiful women's sarongs, made with organic hand-batiked cotton in Ghana. 72" long x 45" wide. Also nice as a tablecloth, drapery, pillowcases or fabric for any other ideas.</p>
+<p>So many ways to wear a sarong - here's a quick video <a href="https://www.youtube.com/watch?v=NCp2mqZek7s" data-mce-href="https://www.youtube.com/watch?v=NCp2mqZek7s">10 ways to wear a sarong</a></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <strong>Global Mamas, GHANA</strong></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Sunflower Red</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Fissure Black</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1709552500770</id>
+      <title>Dahlia Wine</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/9858909639</id>
+    <published>2013-12-05T09:58:00-08:00</published>
+    <updated>2013-12-05T09:58:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/tree-of-life-bracelet"/>
+    <title>Tree of Life Bracelet</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/tree_of_life.jpg?v=1486937430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tree of Life Bracelet </strong></p>
+<p>Each bead has a meaning: reach for the SKY remaining grounded by your ROOTS. If you lose LEAVES new ones will grow with the beauty and bounty of WISDOM. Mix of handmade recycled glass beads and bauxite. Stretch band ~ 7.5", 18 cm. Handmade in Ghana by Global Mamas.</p>
+<p>Bead making has been a thriving industry in West Africa since the sixteenth century and the Krobo area of Ghana is known as one of the beadmaking hubs. The handcrafting of beads using clay molds and ovens has changed little over the centuries as the family craft is passed down through the generations. In Krobo, beads are handmade from all kinds of recycled glass such as bottles, jars, and broken windows. Krobo beads are widely known for their vibrant colours and high level of craftsmanship.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/9858909639</id>
+      <title>Tree of Life Bracelet</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/187857413</id>
+    <published>2013-12-03T14:11:00-08:00</published>
+    <updated>2013-12-03T14:11:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/shea-butter"/>
+    <title>Shea Butter</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/SHEA-L4.jpeg?v=1474140414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For over 2000 years, women in sub-Saharan Africa have gathered the kernals from the shea fruit tree, and after a very labour intensive process, the world’s most moisturizing oil is born. Completely natural (used in Ghana even for cooking) and packed with natural UV protection, vitamins A and E, and with natural anti-inflammatory properties, shea butter will not clog your pores, but will absorb faster and deeper than any other oil. Heals scrapes and burns. The best for stretch marks and wrinkles. Pure and unrefined, our shea butter is completely made and packaged in Ghana in a recyclable plastic tub (made in Ghana as well). Choose from unscented or enhanced with pure wildcrafted essential oils: Vanilla, Lavender, Rosemary Mint or Orange &amp; Ginger. Handmade in Ghana by Global Mamas.  4.0 oz/115 gm container.</p>
+<div>
+<img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span><br><br>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187857413</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187857413</id>
+      <title>Unscented</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187857413</id>
+      <title>Vanilla</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187857413</id>
+      <title>Rosemary Mint</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187857413</id>
+      <title>Orange &amp; Ginger</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

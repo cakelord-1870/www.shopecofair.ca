@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/machakos-co-op-union.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-01-30T14:49:26-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4731906359371</id>
+    <published>2021-01-30T14:49:26-08:00</published>
+    <updated>2021-01-30T14:49:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/letter-opener"/>
+    <title>Letter Opener</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/6A26FEA1-1DF4-4A5C-87D6-9B6330D22206.jpg?v=1614030379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wise Man Letter Opener</strong></p>
+<p>Will open any envelope with ease and look great on your desk. Hand-carved in Kenya by MCU from sustainably harvested jacaranda, replaced by seedlings from MCU's tree nursery. MCU has embarked on an environmental conservation program to rehabilitate the forests, including a tree nursery project. 7.5 " length.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4731906359371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188793129</id>
+    <published>2020-11-02T18:42:18-08:00</published>
+    <updated>2020-11-02T18:42:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/backscratchers"/>
+    <title>Backscratchers</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Backscratcher.jpeg?v=1386269182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95 - 19.95
+            <a href="https://www.shopecofair.ca/products/backscratchers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Backscratchers</strong></p>
+<p>Choose from 2 backscratchers, handcarved in Kenya from brown olive wood. Elephant backscratcher is 11" long, regular backscratcher is 16" long.  Either will lend a hand relieving any itch, including those in the worst places - where you can’t reach. Will adorn any room when not in use. Handmade in Kenya by MCU.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188793129</id>
+      <title>Elephant</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188793129</id>
+      <title>Backscratcher - 16&quot; long</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/188789077</id>
+    <published>2020-11-02T18:42:18-08:00</published>
+    <updated>2020-11-02T18:42:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/animal-doorstoppers"/>
+    <title>Animal Doorstoppers</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/DOOR-G.jpeg?v=1611975132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>DOOR STOPPER</strong></p>
+<p>Let the breeze flow with these functional and attractive handcarved wooden door stoppers. Choice of Giraffe, Zebra or Elephant. Made in Kenya by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests, including a tree nursery project.</p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188789077</id>
+      <title>Zebra Doorstopper</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188789077</id>
+      <title>Giraffe Door Stopper</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/188789077</id>
+      <title>Elephant Doorstopper</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1686735912994</id>
+    <published>2019-01-24T17:39:43-08:00</published>
+    <updated>2019-01-24T17:39:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/tree-branch-salad-servers"/>
+    <title>Tree Branch Salad Servers</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/image_1aaebff8-17d6-4a8c-b351-c0e681a9689d.jpg?v=1548261655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><strong>Tree Branch Salad Servers</strong></p>
+<p>Handcarved wooden salad servers. Made in Kenya by artisans with MCU from sustainably harvested olive wood. MCU has a tree nursery &amp; forest conservation projects. Farmers are given seedlings to plant on their farms during rainy season. Hand wash recommended.<br><br>32 cm long x 8 cm w</p>
+<p> </p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1686735912994</id>
+      <title>Salad Servers</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/12576107859</id>
+    <published>2017-10-15T12:18:09-07:00</published>
+    <updated>2017-10-15T12:18:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/machakos-co-op-union-kenya"/>
+    <title>Machakos Co-op Union, Kenya</title>
+    <s:type></s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/MDCU_medium_ef62d6db-51b8-4d68-bfea-5ca9e7919a82.jpg?v=1508096910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><a href="http://www.wfto.com/"><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></a></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/MDCU_medium.jpg?14471843322333076409"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/12576107859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/11656955155</id>
+    <published>2013-12-05T10:38:00-08:00</published>
+    <updated>2013-12-05T10:38:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/zebra-crossing-sisal-handbag"/>
+    <title>Zebra Crossing Sisal Handbag</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/ZEBRA_CROSSING_BASKET.jpg?v=1605656859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SISAL HANDBAG</strong></p>
+<p>This sturdy yet fashionable handbag goes with everything and is ready for action. Each piece is laboriously crafted from hand-twisted sisal in the traditional wakamba method of open weaving. The colouration is achieved wih natural dyes, using mango leaf, tree bark or plant roots. Over the shoulder leather handles are 28" long. Made in Kenya by MCU. </p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/11656955155</id>
+      <title>Zebra Crossing Sisal Handbag</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

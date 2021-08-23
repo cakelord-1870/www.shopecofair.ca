@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/clearance.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-04-12T09:20:52-07:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/6553156681803</id>
+    <published>2021-04-12T09:20:52-07:00</published>
+    <updated>2021-04-12T09:20:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/shoulder-bag-from-nepal-short-strap-32"/>
+    <title>Shoulder Bag from Nepal, short strap 32&quot;/80 cm long</title>
+    <s:type>each</s:type>
+    <s:vendor>KTE &amp; New SADLE, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/TEA-LEM_a250dd40-d72f-40b3-8506-e639edded7b9.jpeg?v=1618244573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KTE &amp; New SADLE, Nepal<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  New SADLE, Nepal</strong></h3>
+<p>This beautiful shoulder bag (over-the-shoulder strap, 2 pocket, zipper close, tassles with beads) is made by New SADLE, a certified fair trade group by WFTO (Fair Trade Group Nepal). </p>
+<p>Please specify colour and either satin or cotton fabric. B<span class="Apple-tab-span">ag: 15cm w x 18 </span>cm <span class="Apple-tab-span">h, shoulder strap 80 cm long.</span></p>
+<div>New SADLE (New Skill and Development Learning Experience) provides free medical treatment, food, housing, and education to ex-leprosy and ex-polio affected social outcasts in Kathmandu. Their employment and reintegration program promotes self respect and dignity. WFTO member (Fair Trade Group Nepal). </div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<blockquote>
+<h4><strong><em></em></strong></h4>
+</blockquote>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/6553156681803</id>
+      <title>Red Satin</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/6553156681803</id>
+      <title>Navy Satin</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4710047023179</id>
+    <published>2020-12-02T16:40:27-08:00</published>
+    <updated>2020-12-02T16:40:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/african-fairy-magnet"/>
+    <title>African Fairy Magnet</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Crafts, Zimbabwe &amp; US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/dollfridgemagnet.jpg?v=1606955973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Crafts, Zimbabwe &amp; US<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a fridge or magnet board. Handmade by artisans in Zimbabwe.</p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_480x480.jpg?v=1516984597" alt="">  Global Crafts, Zimbabwe &amp; US</strong></p>
+<p class="p1"><span>Global Crafts curates 2,000+ socially responsible products from artisan groups in over 20 countries. FTF member.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4710047023179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

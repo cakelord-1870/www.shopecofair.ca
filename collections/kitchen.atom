@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/kitchen.atom"/>
+  <title>EcoFair</title>
+  <updated>2021-02-22T13:57:03-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724939685963</id>
+    <published>2021-02-22T13:57:03-08:00</published>
+    <updated>2021-02-22T13:57:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/kitchen-gift-basket"/>
+    <title>Kitchen Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/F761A1F8-63A5-442D-8FF8-99660C148B67.jpg?v=1614032469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.50 - 112.00
+            <a href="https://www.shopecofair.ca/products/kitchen-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kitchen Gift Basket $80.50 (was $89.45)</p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Kantha Dish Cloth &amp; Towel * - India</li>
+<li>Salad Servers - Kenya</li>
+<li>Peace <meta charset="utf-8">Soap Dish Bar, 100% Olive Oil - Palestine &amp; Israel</li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>* Dish cloths &amp; towels are double-layer, reversible, made from upcycled cotton saris and are all random colours and patterns. Specify preferred colours and we will do our best to accommodate.</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart.</span></p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939685963</id>
+      <title>Kitchen Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">80.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939685963</id>
+      <title>Kitchen Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">112.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4724939817035</id>
+    <published>2021-02-04T14:24:51-08:00</published>
+    <updated>2021-02-04T14:24:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/foodie-gift-basket"/>
+    <title>Foodie Gift Basket - 10% off!</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/0C4D33B4-E3D3-42C0-9FB2-9DCCF3CC1C51.jpg?v=1612552520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.46 - 111.96
+            <a href="https://www.shopecofair.ca/products/foodie-gift-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Foodie Gift Basket $80.46 (was $89.40)</p>
+<ul>
+<li>Bolga Mini ($40) - Ghana</li>
+<li>Za'atar Spice - Palestine</li>
+<li>Cinnamon - Sri Lanka</li>
+<li>Black Peppercorns - Sri Lanka</li>
+<li>Oat Milk Chocolate Bar *</li>
+<li>Coffee, 70 g ground</li>
+<li>
+<meta charset="utf-8"> <span data-mce-fragment="1">50 bags Green or Black Organic </span>Nepali Tea in Shoulder Bag * </li>
+<li>FairMail Greeting Card (free!)</li>
+</ul>
+<p><meta charset="utf-8"><span>Add a large Bolga for $35 more!</span></p>
+<p><span>Note: All Bolga baskets are natural style but we are happy to make any other substitution! Choose any other basket available and specify selection in notes of the shopping cart. <meta charset="utf-8">* Let us choose the chocolate bar flavour, Nepali tea and card for you - otherwise please specify in cart notes. </span></p>
+<p>Tea flavours: Green, Green w/ Ginger, Green w/ Lemongrass, Black, Black w/ Ginger, Black w/ Chai Spices, Black w/ Cinnamon </p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939817035</id>
+      <title>Foodie Gift Basket / Bolga Mini</title>
+      <s:price currency="CAD">80.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4724939817035</id>
+      <title>Foodie Gift Basket / Bolga Large</title>
+      <s:price currency="CAD">111.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4697587548235</id>
+    <published>2020-11-12T19:26:46-08:00</published>
+    <updated>2020-11-12T19:26:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/ecofair-gift-card"/>
+    <title>EcoFair Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>EcoFair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/11AE1916-9739-42DD-B75D-2619520484B5.jpg?v=1605310757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EcoFair<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 150.00
+            <a href="https://www.shopecofair.ca/products/ecofair-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Not sure what they'll like? Let them choose! When you purchase a Gift Card from us, you will receive an email that contains a unique gift card code that can be used at checkout to redeem its value.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4697587548235</id>
+      <title>$150.00 (includes FREE shipping!)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4655564881995</id>
+    <published>2020-11-02T18:42:28-08:00</published>
+    <updated>2020-11-02T18:42:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/chocolate-with-oat-milk"/>
+    <title>Endangered Species Oat Milk Chocolate Bars</title>
+    <s:type></s:type>
+    <s:vendor>Endangered Species Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/esoatmilk.jpg?v=1605903651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Endangered Species Chocolates<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FLO_label_50x50.jpg?v=1516984597" alt=""> <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/IMG_0130_9c2c5324-cd5c-4629-b2ca-a758abd14dab_50x50.jpg?v=1571677317" alt=""></p>
+<p>Oat milk tames the complex flavour of cocoa for a modern take on chocolate. Delicious, and of course vegan too. 85 g bar.</p>
+<p>Since 1993, Endangered Species Chocolate has committed to crafting a premium, delicious product while giving back a portion of their profits to conservation groups who support wildlife and habitats in need.</p>
+<p>Certified fairtrade and Non-GMO, Endangered Species Chocolates donate 10% of their annual net profits to their GiveBack partners, and have given over $2,170,000 over the last four years alone. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4655564881995</id>
+      <title>Oat Milk Sea Salt &amp; Almonds + Dark Chocolate 55% Cocoa Bumblebee</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4655564881995</id>
+      <title>Oat Milk + Dark Chocolate 55% Cocoa Zebra</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4655564881995</id>
+      <title>Oat Milk Rice Crisps + Dark Chocolate 55% Cocoa Gorilla</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/5588310855</id>
+    <published>2020-11-02T18:42:21-08:00</published>
+    <updated>2020-11-02T18:42:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/coffee"/>
+    <title>Coffee</title>
+    <s:type>each</s:type>
+    <s:vendor>Spirit Bear Coffee Company, Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/2A654743-CA9D-41DB-ABC0-CEE9770277EC.png?v=1605236916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company, Canada<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            4.00 - 32.00
+            <a href="https://www.shopecofair.ca/products/coffee">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;" class="p1"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FLO_label_thumb.jpg?9480164677353020287" alt=""><span>   </span><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/canadalogo_thumb.jpg?9480164677353020287"><span> </span></p>
+<p style="text-align: left;" class="p1"><strong>Spirit Bear Coffee Company</strong> is an Indigenous Canadian coffee company sourcing and craft-roasting some of the finest organic and fair-trade coffee in the world. At coffee origins in South America and Asia they support the health of farmers through organic farming methods and ensure that they are paid fairly via fair-trade premiums<b>.</b></p>
+<p style="text-align: left;" class="p1">Spirit Bear Coffee Company is also teaming up with Ocean Alliance and the Drones For Whale Research program SnotBot®, a drone that collects a priceless biological data set from the whales exhalation, a non-instrusive way to assess the health of the whale which mirrors the health of our oceans. They will donate $1 for every 400 g bag and $2 for every 1 kg bag sold. Buy coffee, save whales. More info   <a href="https://spiritbearcoffeecompany.com"><span>www.spiritbearcoffeecompany.com</span></a></p>
+<p style="text-align: left;" class="p1"><span><meta charset="utf-8">Available in 70 g, 400 g and 1 kg bags, or 70 g in a beautiful Nepali shoulder bag!</span></p>
+<p style="text-align: left;" class="p1"><span> <img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/CD28823D-4840-42AA-9987-827C12175B35_100x100.png?v=1569174436"> Orca Dark Roast</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/5588310855</id>
+      <title>Orca Dark Roast 70 g, Ground $4</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/5588310855</id>
+      <title>3 x 70 g Orca Dark Roast, Ground $10</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/5588310855</id>
+      <title>Orca Dark Roast 70 g Ground, in Nepali Shoulder Bag $10</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/5588310855</id>
+      <title>Orca Dark Roast 400 g, Whole Bean $15</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/5588310855</id>
+      <title>Orca Dark Roast 1 kg, Whole Bean $32</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1841070657</id>
+    <published>2020-11-02T18:42:20-08:00</published>
+    <updated>2020-11-02T18:42:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/coasters"/>
+    <title>Coasters</title>
+    <s:type>each</s:type>
+    <s:vendor>Global Mamas, Ghana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/coasters2.jpg?v=1607127040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Mamas, Ghana<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Coasters</strong></p>
+<meta charset="utf-8">
+<p><span>Set of four packaged with raffia tie. Reversible. Reinforced for stability. 4”x 4”. 100% cotton shell.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  <img src="//cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_small.jpg?821">    <span class="Apple-style-span"><strong>Global Mamas, GHANA</strong></span></p>
+<p>Global Mamas provides women in Ghana, West Africa the opportunity to improve their standard of living with dignity by promoting their traditional crafts. Proceeds go directly to the women participating in the Global Mamas Cooperative (all are paid over 10 times the minimum wage) and to support other non-profit programs. WFTO and FTF member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1841070657</id>
+      <title>Burgundy</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1841070657</id>
+      <title>Green</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1841070657</id>
+      <title>Red (green backing)</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1693255598114</id>
+    <published>2020-11-02T18:40:35-08:00</published>
+    <updated>2020-11-02T18:40:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/50-teabags-from-kte-tea-garden-eastern-nepal"/>
+    <title>50 teabags from KTE tea garden, eastern Nepal</title>
+    <s:type>each</s:type>
+    <s:vendor>New Sadle, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0096.JPG?v=1605836930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Sadle, Nepal<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_thumb.jpg?9480164677353020287"><img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/USDA_logo_thumb.jpg?9480164677353020287"><strong>Himalayan Tea </strong>
+</h3>
+<p>Tea back in stock!</p>
+<p>A best seller. Relax with a cup of this delicious, smooth, low tannin (but high nutrient) tea. Single-estate, certified organic and certified fair trade by WFTO (Fair Trade Group Nepal). 50 teabags, tea grown in eastern Nepal by KTE, <span class="Apple-tab-span"> 15cm w x 1</span>5 cm <span class="Apple-tab-span">h</span>.</p>
+<p><strong>KTE </strong>is a Fair Trade organic tea cooperative located high in the Nepali mountains bordering Darjeeling. Perfect growing conditions combined with organic cultivation (no pesticides or synthetic fertilizers) produce a flavourful tea rich in health benefits. Choose from 5 flavours: Green Tea, Black Tea, Green Tea with Lemongrass, Green Tea with Ginger, Black Tea with Chai spices or Black Tea with Cinnamon.</p>
+<p>For the perfect cuppa: use 80˚C clean water (boiling water kills the most important nutrients). <strong>Green tea</strong>: steep for 3 - 5 minutes max. Want a stronger brew? Add more tea, but steep the same. <strong>Black tea</strong> can be steeped for much longer.</p>
+<h3><strong></strong></h3>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<blockquote>
+<h4><strong><em></em></strong></h4>
+</blockquote>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Green Tea</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Green tea w/ Lemongrass</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Green Tea w/ Ginger</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black Tea</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black tea w/ Ginger</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black tea w/ Chai spices</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1693255598114</id>
+      <title>Black tea w/ Cinnamon</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4690032787531</id>
+    <published>2020-10-31T14:06:52-07:00</published>
+    <updated>2020-10-31T14:06:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/dishcloths-dishtowels"/>
+    <title>Kantha Dishcloths &amp; Dishtowels</title>
+    <s:type></s:type>
+    <s:vendor>SERRV, India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/dishcloths.jpg?v=1604178745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SERRV, India<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50 - 15.00
+            <a href="https://www.shopecofair.ca/products/dishcloths-dishtowels">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Back in stock! Double-layer linens made from recycled cotton saris come in an array of traditional Indian patterns and colors. Finished with traditional kantha embroidery, and small hanging loops.  Colours will vary, let us choose for you! Machine wash cold, line dry. </span></p>
+<p>Dishcloths: 11 1/2" sq.<br></p>
+<p>Dishtowels: <span data-mce-fragment="1">25 1/2"l x 19 1/2"w</span></p>
+<p> </p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_100x100.jpg?v=1516984597" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_100x100.jpg?v=1516984597">  SERRV, India &amp; US, FTF member.</p>
+<div class="image pull-right col-xs-6 col-md-4"><br></div>
+<div class="content">
+<h3>ABOUT THE ARTISAN</h3>
+<div class="image iefix col-xs-12 col-sm-12 col-md-5">
+<div class="text-center" id="group-img-enlarge">
+<div id="MagicScroll-801288231375" data-mode="scroll" class="MagicScroll mar_top10 MagicScroll-arrows-outside MagicScroll-horizontal">
+<div class="mcs-wrapper">
+<div class="mcs-items-container">
+<div data-item="1" class="mcs-item"><br></div>
+<div data-item="1" class="mcs-item"><a class="mz-thumb" data-options="expandCaption: true" data-image="/images/products/ArtisanGroupPOP/sasha_1.jpg" title="SI" href="https://www.serrv.org/images/products/ArtisanGroupPOP/sasha_1.jpg" data-zoom-id="zoom"><img height="100" width="100" src="https://www.serrv.org/images/products/ArtisanGroupTH/sasha_1.jpg"></a></div>
+<div data-item="2" class="mcs-item"><a class="mz-thumb" data-options="expandCaption: true" data-image="/images/products/ArtisanGroupPOP/sasha_2.jpg" title="SI" href="https://www.serrv.org/images/products/ArtisanGroupPOP/sasha_2.jpg" data-zoom-id="zoom"><img height="100" width="100" src="https://www.serrv.org/images/products/ArtisanGroupTH/sasha_2.jpg"></a></div>
+<div data-item="0" class="mcs-item"><a class="mz-thumb" data-options="expandCaption: true" data-image="/images/products/ArtisanGroupPOP/sasha.jpg" title="SI" href="https://www.serrv.org/images/products/ArtisanGroupPOP/sasha.jpg" data-zoom-id="zoom"><img height="100" width="100" src="https://www.serrv.org/images/products/ArtisanGroupTH/sasha.jpg"></a></div>
+<div data-item="1" class="mcs-item"><br></div>
+<div data-item="2" class="mcs-item"><a class="mz-thumb" data-options="expandCaption: true" data-image="/images/products/ArtisanGroupPOP/sasha_2.jpg" title="SI" href="https://www.serrv.org/images/products/ArtisanGroupPOP/sasha_2.jpg" data-zoom-id="zoom"></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content art-content col-xs-12 col-sm-12 col-md-7">
+<div class="serrv-info">
+<div class="partner-date"></div>
+</div>
+<p>Your purchase builds the skills of poor and marginalized artisan groups in East India, enhancing their access to markets and information, and increasing their income and productivity in a sustainable way.</p>
+<p><b>Since 1990</b>, SERRV International has partnered with artisans in East India, providing a long-term trading partnership and interest-free advance payment for our orders. Through sales of their products, artisans from more than 70 craft groups (many are women), receive improved working conditions, stable incomes, and benefits from health campaigns. In addition, artisans receive help in finding needed export outlets for their handcrafts.</p>
+<p>Artisans in East India use several techniques to create their variety of beautiful handcrafts, including embroidery, ikat, leatherwork, batik, hand painting, and metalwork</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4690032787531</id>
+      <title>Dishcloths</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4690032787531</id>
+      <title>Dishtowel</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/4293218566178</id>
+    <published>2019-10-21T08:22:22-07:00</published>
+    <updated>2019-10-21T08:22:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/justea-herbal-rooibos-tea"/>
+    <title>JUSTEA Fair Trade Herbal &amp; Rooibos Tea, Kenya</title>
+    <s:type>70 gm</s:type>
+    <s:vendor>JUSTEA, Kenya &amp; Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/F9F62425-E318-492E-9D56-BBDF95CB424D.jpg?v=1571703905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JUSTEA, Kenya &amp; Canada<br>
+        <strong>Type: </strong>70 gm<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relax and enjoy a cup of our new herbal &amp; rooibos teas. Caffeine free, whole leaf, family direct Fair Trade, plant based and gluten free. Each tin includes a hand carved Kenyan olive wood tea spoon! Each tin makes 40 cups; resteep for 80.</p>
+<p>Purple Rain: lemongrass, Kenyan purple tea, hibiscus, apple pieces, rosehips, natural passion fruit flavour</p>
+<p>Sunkissed Rooibos: long cut rooibos, lemongrass</p>
+<p>Chamomile Cleanse: chamomile blossoms, lemongrass, licorice root</p>
+<p>Peppermint Detox: lemongrass, peppermint</p>
+<h3></h3>
+<h3></h3>
+<h3>
+<strong><a href="http://www.fairtradefederation.org/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/FTF_logo_thumb.jpg?821"></a> <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/IMG_0130_9c2c5324-cd5c-4629-b2ca-a758abd14dab_50x50.jpg?v=1571677317" alt="">  <span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"> </span></strong>JUSTEA Herbal &amp; Rooibos Tea, Kenya &amp; Canada</h3>
+<p><span>JUSTEA has established Kenya’s first-ever, small-scale farmer-owned, Artisanal Tea Factory, providing fair and sustainable wages for tea farming families. Since 2012, JUSTEA has:</span></p>
+<ul>
+<li>
+<b>Created</b><span> sustainable employment for youth and women in rural Kenya! JUSTEA has opened the country’s first-ever, small-scale farmer-owned, Artisanal Tea Factory. </span>
+</li>
+<li>
+<b>Partnered</b><span> with a Women’s Herbal Tea Co-op in Eastern Kenya.  JusTea is the first North American distributor for this co-op’s Organic herbs.  Over 80% of the employees are women and they support hundreds of small-scale herbal tea farmers in their community.  </span>
+</li>
+<li>
+<b>Employed</b><span> over 50 different woodworking families through the sales of hand-carved Kenyan teaspoons. JUSTEA has bought over 100,000 spoons and every purchase directly employs these carving families.</span>
+</li>
+</ul>
+<h2>What is Kenyan Purple Tea?</h2>
+<p>Over 25 years ago, the Tea Research Foundation of Kenya (TRFK) developed this new Purple cultivar and small-scale Kenyan farmers planted the seedlings in 2011. Purple Leaf Tea is a cultivar of Camellia Sinensis (species) Assamica (varietal). It is called Purple Tea is because the bushes grow purple leaves in Kenyan tea gardens. This is not a gmo plant; it is completely natural and part of the tea family (Camellia Sinensis Assamica).</p>
+<blockquote></blockquote>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Purple Rain, 80 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Sun kissed Rooibos, 70 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Chamomile Cleanse, 45 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/4293218566178</id>
+      <title>Peppermint Detox, 45 g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1686735912994</id>
+    <published>2019-01-24T17:39:43-08:00</published>
+    <updated>2019-01-24T17:39:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/tree-branch-salad-servers"/>
+    <title>Tree Branch Salad Servers</title>
+    <s:type>each</s:type>
+    <s:vendor>Machakos Co-op Union, Kenya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/image_1aaebff8-17d6-4a8c-b351-c0e681a9689d.jpg?v=1548261655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Machakos Co-op Union, Kenya<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><strong>Tree Branch Salad Servers</strong></p>
+<p>Handcarved wooden salad servers. Made in Kenya by artisans with MCU from sustainably harvested olive wood. MCU has a tree nursery &amp; forest conservation projects. Farmers are given seedlings to plant on their farms during rainy season. Hand wash recommended.<br><br>32 cm long x 8 cm w</p>
+<p> </p>
+<p><strong><img src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?839">  MACHAKOS CO-OP UNION, KENYA</strong></p>
+<p>Begun in 1987 to market handicraft products for its members locally and internationally, MCU now works with over 20 women self help groups and 6 handicraft co-operative societies within the marginalised areas, bringing together over 6000 individual members. Education to producer members and provision of social amenities are coordinated by MCU. MCU has embarked on an environmental conservation program to rehabilitate the forests. A tree nursery project was initiated to check on this balance. WFTO member.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1686735912994</id>
+      <title>Salad Servers</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/423994385</id>
+    <published>2016-12-21T23:05:00-08:00</published>
+    <updated>2016-12-21T23:05:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/spices"/>
+    <title>Spices</title>
+    <s:type>30 gm</s:type>
+    <s:vendor>Cha&apos;s, Sri Lanka &amp; Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/image_08ce9c1e-a84f-4e6d-801e-465010dce71e.jpeg?v=1598397207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cha&#39;s, Sri Lanka &amp; Canada<br>
+        <strong>Type: </strong>30 gm<br>
+        <strong>Price: </strong>
+            5.95 - 12.95
+            <a href="https://www.shopecofair.ca/products/spices">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Cha's has always stood for a fair deal for farmers. That's why Cha's products have been Fair Trade from day one. 
+<p class="p1">Fair Trade offers real advantages to the producers who grow Cha's spices and coconuts, by guaranteeing not only minimum prices but also Fair Trade premiums paid directly to the growers. Instead of going into debt to purchase agricultural tools, seedlings, fertilizers and other chemical inputs before even planting a crop, the growers of Cha's spices and coconuts receive the seedlings, tools and even animals and bees that  they require up front - all purchased with the money they receive from the Fair Trade premiums.</p>
+<p class="p1">They also benefit from ongoing training on traditional and biodynamic organic farming methods that allow them to grow all of their crops in their biodiverse gardens without the use of any harmful and expensive chemical inputs. What's more, the Fair Trade premiums are also used to purchase school supplies for children in the farming community, build community centers, provide local drinking water supply, and equip women with the tools and training they need to become more financially secure.</p>
+<ul class="ul1">
+<li class="li2">Fairtrade Certified by Fair For Life</li>
+<li class="li2">Certified Organic</li>
+<li class="li2">Gluten Free</li>
+<li class="li2">Non Irradiated</li>
+<li class="li2">100% Delicious</li>
+</ul>
+<p><strong>Cinnamon That's True</strong></p>
+<p>Did you know that most of the "cinnamon" on the market is not actually cinnamon at all, but rather cassia? Cassia is a more commonly available and inexpensive cousin to True Cinnamon (also known as Ceylon Cinnamon), that lacks the delicate flavour profile and natural sweetness that True Cinnamon offers.</p>
+<p>Grown, harvested and traded according to Fair Trade standards, Arayuma/Cha's True Cinnamon is 100% produced by small-scale  spice growers in Sri Lanka.</p>
+<p>Not only is True Cinnamon delightfully aromatic, it's also loaded with an impressive array of health benefits. Traditionally used to improve digestion, fight colds, treat candida, stabilize blood sugar and reduce arthritic pain, True Cinnamon is truly the better choice.</p>
+<p>All information above from Arayuma/Cha's.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/423994385</id>
+      <title>True Cinnamon, ground, 30 g</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/423994385</id>
+      <title>Black Peppercorns, whole, 120 g</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/423994385</id>
+      <title>Ginger</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/1620105232418</id>
+    <published>2013-12-03T14:48:00-08:00</published>
+    <updated>2013-12-03T14:48:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/zaatar-1"/>
+    <title>Za&apos;atar</title>
+    <s:type>each</s:type>
+    <s:vendor>Zatoun, Palestine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/IMG_0045.JPG?v=1569268110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zatoun, Palestine<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Za’atar (Arabic: زَعْتَر), the spice blend is a mixture of <a href="http://www.sindyanna.com/cooperation/farmers-producers-artisans/zaatar-by-the-nahle-family/"><span class="s1">dried za’atar leaves</span></a> (the hyssop of the Bible, also known as Syrian marjoram, and for us in the western hemisphere, thyme) together with a combination of other ingredients: <a href="http://www.sindyanna.com/cooperation/farmers-producers-artisans/sesame-by-yusef-murad/"><span class="s1">sesame seeds</span></a>, <a href="http://www.thekitchn.com/inside-the-spice-cabinet-sumac-67042">sumac</a> and sea salt.</p>
+<p class="p1">Za’atar is a very popular spice in the local kitchen. It is used as a seasoning for pizza, pastas, meats and vegetables, and can also be sprinkled on humus or labaneh (yogurt drained to make a tangy creamy cheese), or mixed with olive oil and eaten with pita bread.</p>
+<p class="p1">For more information on how to use za’atar, check out this excellent <a href="http://www.seriouseats.com/2010/07/spice-hunting-what-is-zaatar-how-to-use.html"><span class="s1">Serious Eats article</span></a>.</p>
+<h3><a href="http://wfto.com/"></a></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/1620105232418</id>
+      <title>150 gms</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/187051609</id>
+    <published>2013-12-02T11:30:00-08:00</published>
+    <updated>2013-12-02T11:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/nepali-tea-in-shoulder-bag"/>
+    <title>Nepali Tea in Shoulder Bag</title>
+    <s:type>100 gm</s:type>
+    <s:vendor>KTE &amp; New SADLE, Nepal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/54E9C476-5AE7-4160-B1B4-D43F8ADCD98D.jpg?v=1603757856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KTE &amp; New SADLE, Nepal<br>
+        <strong>Type: </strong>100 gm<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_thumb.jpg?9480164677353020287"><img alt="" src="//cdn.shopify.com/s/files/1/0295/8561/files/USDA_logo_thumb.jpg?9480164677353020287">Nepali<strong> Tea in Shoulder Bag, Nepal</strong>
+</h3>
+<p>A best seller. Relax with a cup of this delicious, smooth, low tannin (but high nutrient) tea. And talk about reusable packaging — when you are done, wear the beautiful shoulder bag (2 pocket, zipper close, tassles with beads).Single-estate, certified organic and certified fair trade by WFTO (Fair Trade Group Nepal). 50 teabags in shoulder bag. Tea grown in Nepal by KTE, pouch by New SADLE.</p>
+<p>Bag colour chosen randomly unless requested. B<span class="Apple-tab-span">ag: 15cm w x 18 </span>cm <span class="Apple-tab-span">h</span>, strap 160 cm long.</p>
+<p><strong>KTE </strong>is a Fair Trade organic tea cooperative located high in the Nepali mountains bordering Darjeeling. Perfect growing conditions combined with organic cultivation (no pesticides or synthetic fertilizers) produce a flavourful tea rich in health benefits. Choose from 7 flavours: Green Tea, Green Tea w/ Lemongrass, Green Tea w/ Ginger, Black Tea, Black Tea w/ Ginger, Black Tea w/ Chai Spices or Black Tea w/ Cinnamon.</p>
+<p>For the perfect cuppa: use 80˚C clean water (boiling water kills the most important nutrients). <strong>Green tea</strong>: steep for 3 - 5 minutes max. Want a stronger brew? Add more tea, but steep the same. <strong>Black tea</strong> can be steeped for much longer.</p>
+<h3><strong><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_icon.jpg?723">  New SADLE, Nepal</strong></h3>
+<div>New SADLE (New Skill and Development Learning Experience) provides free medical treatment, food, housing, and education to ex-leprosy and ex-polio affected social outcasts in Kathmandu. Their employment and reintegration program promotes self respect and dignity. WFTO member (Fair Trade Group Nepal). </div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<blockquote>
+<h4><strong><em></em></strong></h4>
+</blockquote>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Green Tea</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Green tea w/ Lemongrass</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Green Tea w/ Ginger</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black Tea</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black tea w/ Ginger</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black tea w/ Chai spices</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187051609</id>
+      <title>Black tea w/ Cinnamon</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

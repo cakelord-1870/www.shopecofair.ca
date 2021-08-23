@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/blogs/news.atom"/>
+  <title>EcoFair - News</title>
+  <updated>2020-11-23T11:58:54-08:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/blogs/news/buy-local-global</id>
+    <published>2020-11-23T11:58:54-08:00</published>
+    <updated>2020-11-23T20:18:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/blogs/news/buy-local-global"/>
+    <title>Buy Local &amp; Global</title>
+    <author>
+      <name>Kathy Heisler</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><strong>Support a local business &amp; global fair trade artisans!</strong></p>
+<p>What a year 2020 has been. While we hope you all stay safe, we know how lucky we are to live in a country like Canada with its social safety net. That's why we feel so strongly about fair trade - trading with these producer partners is all they have for outside income as their governments don't have the means or the will to provide them with that safety net.</p>
+<p>So while we are a proud BC and Canadian business, we are also proud to support global artisans around the world. Thank you again for your support.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/blogs/news/10128701-first-post</id>
+    <published>2020-11-23T11:56:38-08:00</published>
+    <updated>2020-11-23T11:56:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/blogs/news/10128701-first-post"/>
+    <title>First Post</title>
+    <author>
+      <name>Kathy Heisler</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Welcome to our new website! With every purchase, we will plant one tree in Ethiopia with WeForest. Planting trees with WeForest makes the earth cooler, alleviates poverty and restores ecosystems. How awesome is that!</p>
+<p><a href="http://www.weforest.org/projects/ethiopia">www.weforest.org/projects/ethiopia</a></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

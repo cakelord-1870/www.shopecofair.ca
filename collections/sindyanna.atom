@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shopecofair.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shopecofair.ca/collections/sindyanna.atom"/>
+  <title>EcoFair</title>
+  <updated>2017-10-15T12:24:10-07:00</updated>
+  <author>
+    <name>EcoFair</name>
+  </author>
+  <entry>
+    <id>https://www.shopecofair.ca/products/12576116499</id>
+    <published>2017-10-15T12:24:10-07:00</published>
+    <updated>2017-10-15T12:24:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/sindyanna-middle-east"/>
+    <title>Sindyanna, Middle East</title>
+    <s:type></s:type>
+    <s:vendor>Sindyanna of Galilee, Middle East</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/Sindyanna7_medium_7162b24f-b6da-4361-9930-47fce7c53fc7.jpg?v=1508097200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sindyanna of Galilee, Middle East<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3><a href="http://www.wfto.com/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  SINDYANNA OF GALILEE</a></h3>
+<p>Sindyanna stresses land preservation, environmental quality, women’s empowerment and women’s labour rights. Their staff consists of Palestinian and Israeli women who believe in a future of peace and prosperity for all people.</p>
+<p>Palestinian workers and farmers in the occupied territories today face enormous challenges. Sindyanna has put great effort into buying West Bank products with the aim of helping their economy and protecting their land. WFTO member.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/SINDYANNA_medium.jpg?18199439943294824849">  <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/Sindyanna7_medium.jpg?6792586991243343702">  <img src="https://cdn.shopify.com/s/files/1/0295/8561/files/Sindyanna6_medium.jpg?6792586991243343702">  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/12576116499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/422999333</id>
+    <published>2015-08-31T12:15:00-07:00</published>
+    <updated>2015-08-31T12:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/copy-of-peace-soap-shampoo-bar-4-pk-new"/>
+    <title>NEW! Olive Oil Peace Soap - 4 pk</title>
+    <s:type>each</s:type>
+    <s:vendor>Sindyanna of Galilee, Middle East</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/soap_931f925f-4749-491a-8c23-a271b68f537c.jpeg?v=1430501921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sindyanna of Galilee, Middle East<br>
+        <strong>Type: </strong>each<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<p>Packaged in attractive gift box; includes a postcard from a Palestinian artist.</p>
+<p>Who knew that soap can be a peacemaker! Sindyanna olive-oil soap is made in the West Bank city of Nablus according to traditional techniques using the finest natural olive oil. This hard bar soap is long-lasting, lathers well, and is very moisturizing. 80% olive oil with 20% added "flavours", including Dead Sea mud, reknowned for it's curative properties for problem skin like psoriasis and eczema. Gift box includes Dead Sea mud, lemon, pomegranate and honey. Note: If soap becomes soft, put aside for 2 or 3 days and soap will harden again.</p>
+<p>Sindyanna stresses land preservation, environmental quality, women’s empowerment and women’s labour rights. Their staff consists of Palestinian and Israeli women who believe in a future of peace and prosperity for all people. Palestinian workers and farmers in the occupied territories today face enormous challenges. Sindyanna has put great effort into buying West Bank products with the aim of helping their economy and protecting their land. Handmade in Nablus, West Bank; packed in Galilee.  </p>
+<h3>
+<img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821">  SINDYANNA OF GALILEE</h3>
+<p>Sindyanna stresses land preservation, environmental quality, women’s empowerment and women’s labour rights. Their staff consists of Palestinian and Israeli women who believe in a future of peace and prosperity for all people.</p>
+<span>Palestinian workers and farmers in the occupied territories today face enormous challenges. Sindyanna has put great effort into buying West Bank products with the aim of helping their economy and protecting their land. WFTO member.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/422999333</id>
+      <title>4 pk - mud, lemon, honey, pomegranate</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.shopecofair.ca/products/187870173</id>
+    <published>2013-12-03T14:48:00-08:00</published>
+    <updated>2013-12-03T14:48:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shopecofair.ca/products/olive-oil-peace-soap"/>
+    <title>Olive Oil Peace Soap</title>
+    <s:type>100 gm</s:type>
+    <s:vendor>Sindyanna of Galilee, Middle East</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0295/8561/products/soap.jpeg?v=1430501834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sindyanna of Galilee, Middle East<br>
+        <strong>Type: </strong>100 gm<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Who knew that soap can be a peacemaker! Sindyanna olive-oil soap is made in the West Bank city of Nablus according to traditional techniques using the finest natural olive oil. This hard bar soap is long-lasting, lathers well, and is very moisturizing. Great as a shampoo bar and dish soap bar as well!</p>
+<p>Choose from 100% olive oil or 6 others with 80% olive oil from Palestinian olive grove farmers and 20% added "flavours", including Dead Sea mud, renowned for it's curative properties for problem skin like psoriasis and eczema. Note: If soap becomes soft, put aside for 2 or 3 days and soap will harden again.<br></p>
+<p>Sindyanna stresses land preservation, environmental quality, women’s empowerment and women’s labour rights. Their staff consists of Palestinian and Israeli women who believe in a future of peace and prosperity for all people. Palestinian workers and farmers in the occupied territories today face enormous challenges. Sindyanna has put great effort into buying West Bank products with the aim of helping their economy and protecting their land. Handmade in Nablus, West Bank; packed in Galilee.  </p>
+<h3>
+<a href="http://wfto.com/"><img src="https://cdn.shopify.com/s/files/1/0295/8561/files/WFTO_logo_small.jpg?821"> </a> SINDYANNA OF GALILEE</h3>
+<p>Sindyanna stresses land preservation, environmental quality, women’s empowerment and women’s labour rights. Their staff consists of Palestinian and Israeli women who believe in a future of peace and prosperity for all people.</p>
+<p>Palestinian workers and farmers in the occupied territories today face enormous challenges. Sindyanna has put great effort into buying West Bank products with the aim of helping their economy and protecting their land. WFTO member.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187870173</id>
+      <title>Goat&apos;s Milk</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187870173</id>
+      <title>Dead Sea Mud</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187870173</id>
+      <title>Lemon</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187870173</id>
+      <title>Honey</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187870173</id>
+      <title>Pomegranate</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187870173</id>
+      <title>Sage</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.shopecofair.ca/products/187870173</id>
+      <title>100% Olive Oil - great as a dish soap!</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
